@@ -1,0 +1,9 @@
+Ajout fonction lecture figure directement
+
+Ajouter bases de données
+
+Ajouter normalisation par surface/nombre d'habitant/GDP/ GDPparhab
+
+Ajouter dash board
+
+etcccc
