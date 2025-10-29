@@ -1,0 +1,10 @@
+# Ignorer les fichiers temporaires Python et Jupyter
+__pycache__/
+*.pyc
+
+# Ignorer les checkpoints Jupyter
+**/.ipynb_checkpoints/
+
+# Ignorer les dossiers Figures et Documentation
+Figures/
+Documentation/
