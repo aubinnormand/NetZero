@@ -5,7 +5,7 @@ import geopandas as gpd
 # -----------------------------
 # Fonctions d'importation
 # -----------------------------
-def import_data_raw(filename, folder="data_raw", n_header=0, sep=',', encoding='utf-8', sheet_name=0):
+def import_data_raw(data_path, folder="data_raw", n_header=0, sep=',', encoding='utf-8', sheet_name=0):
     """
     Importation d'un fichier de données (CSV ou Excel) depuis Data/data_raw.
 
@@ -29,8 +29,7 @@ def import_data_raw(filename, folder="data_raw", n_header=0, sep=',', encoding='
     pd.DataFrame
         Le DataFrame contenant les données importées.
     """
-    data_path = Path("..") / "Data" / folder / filename
-    
+   
     # Détection automatique du type de fichier
     suffix = data_path.suffix.lower()
     
@@ -106,9 +105,10 @@ def melt_long_format(df, id_vars=['Country'], var_name='Year', value_name='Value
     
     return df_long
 
-def save_long_dataframe(df, indicator=None, source=None, folder="data_final", sep=',', index=False, encoding='utf-8'):
+def save_long_dataframe(df, base_path, indicator=None, source=None, folder="data_final", sep=',', index=False, encoding='utf-8'):
     """
     Sauvegarde un DataFrame au format long avec un nom de fichier dynamique basé sur l'indicateur et la source.
+    Supprime les lignes avec NaN et ne garde que les colonnes essentielles.
 
     Paramètres :
     - df : DataFrame à sauvegarder
@@ -130,21 +130,26 @@ def save_long_dataframe(df, indicator=None, source=None, folder="data_final", se
         name = re.sub(r'[^\w\-_]', '', name)  # supprimer caractères spéciaux
         return name
 
+    # Garder seulement les colonnes essentielles
+    cols_to_keep = ['Year','Country', 'Value', 'Unit', 'Indicator', 'Source', 'Country_code']
+    df = df[cols_to_keep].dropna()
+
     indicator_name = clean_name(indicator)
     source_name = clean_name(source)
 
     filename = f"{indicator_name}_{source_name}.csv"
 
-    save_path = Path("..") / "Data" / folder / filename
+    save_path = base_path / "Data" / folder / filename
     save_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(save_path, sep=sep, index=index, encoding=encoding)
 
     print(f"DataFrame sauvegardé dans {save_path}")
     return save_path
 
-def concat_intermediate_files(folder_in="data_intermediate", folder_out="data_final", final_filename="data_final.csv", sep=',', encoding='utf-8'):
+def concat_intermediate_files(base_path, folder_in="data_intermediate", folder_out="data_final", final_filename="data_final.csv", sep=',', encoding='utf-8'):
     """
     Concatène tous les fichiers CSV dans un dossier intermédiaire et sauvegarde le résultat final.
+    Affiche les fichiers trouvés et le nombre de lignes par fichier.
 
     Paramètres :
     - folder_in : dossier contenant les fichiers CSV intermédiaires
@@ -158,23 +163,30 @@ def concat_intermediate_files(folder_in="data_intermediate", folder_out="data_fi
     import glob
 
     # Construire le chemin des fichiers
-    folder_path = Path("..") / "Data" / folder_in
+    folder_path = base_path / "Data" / folder_in
     files = glob.glob(str(folder_path / "*.csv"))
 
     if not files:
         print(f"Aucun fichier CSV trouvé dans {folder_path}")
         return None
 
-    # Charger et concaténer tous les fichiers
-    dfs = [pd.read_csv(f, sep=sep, encoding=encoding) for f in files]
+    print("Fichiers trouvés et nombre de lignes :")
+    dfs = []
+    for f in files:
+        df = pd.read_csv(f, sep=sep, encoding=encoding)
+        print(f"- {f} : {len(df)} lignes")
+        dfs.append(df)
+
+    # Concaténer tous les fichiers
     df_final = pd.concat(dfs, ignore_index=True)
+    print(f"{len(files)} fichiers fusionnés pour obtenir {len(df_final)} lignes au total.")
 
     # Sauvegarder le résultat final
-    save_path = Path("..") / "Data" / folder_out / final_filename
+    save_path = base_path / "Data" / folder_out / final_filename
     save_path.parent.mkdir(parents=True, exist_ok=True)
     df_final.to_csv(save_path, sep=sep, index=False, encoding=encoding)
 
-    print(f"DataFrame final sauvegardé dans {save_path} ({len(df_final)} lignes)")
+    print(f"DataFrame final sauvegardé dans {save_path}")
     return df_final
 
 

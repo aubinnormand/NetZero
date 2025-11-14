@@ -8,3 +8,4 @@ __pycache__/
 # Ignorer les dossiers Figures et Documentation
 Figures/
 Documentation/
+Database/
