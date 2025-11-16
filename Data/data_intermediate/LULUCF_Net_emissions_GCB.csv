@@ -228,7 +228,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1994,Andorra,5240.0,tC,LULUCF Net Emissions,GCB,AD
 1995,Andorra,5910.0,tC,LULUCF Net Emissions,GCB,AD
 1996,Andorra,3600.0,tC,LULUCF Net Emissions,GCB,AD
-1997,Andorra,3969.9999999999995,tC,LULUCF Net Emissions,GCB,AD
+1997,Andorra,3970.0,tC,LULUCF Net Emissions,GCB,AD
 1998,Andorra,3360.0,tC,LULUCF Net Emissions,GCB,AD
 1999,Andorra,3210.0,tC,LULUCF Net Emissions,GCB,AD
 2000,Andorra,2520.0,tC,LULUCF Net Emissions,GCB,AD
@@ -251,7 +251,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2017,Andorra,-1580.0,tC,LULUCF Net Emissions,GCB,AD
 2018,Andorra,-1880.0,tC,LULUCF Net Emissions,GCB,AD
 2019,Andorra,-2010.0,tC,LULUCF Net Emissions,GCB,AD
-2020,Andorra,-2030.0000000000002,tC,LULUCF Net Emissions,GCB,AD
+2020,Andorra,-2030.0,tC,LULUCF Net Emissions,GCB,AD
 2021,Andorra,-1970.0,tC,LULUCF Net Emissions,GCB,AD
 2022,Andorra,-1980.0,tC,LULUCF Net Emissions,GCB,AD
 2023,Andorra,-2000.0,tC,LULUCF Net Emissions,GCB,AD
@@ -276,7 +276,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1978,Angola,2287080.0,tC,LULUCF Net Emissions,GCB,AO
 1979,Angola,2105150.0,tC,LULUCF Net Emissions,GCB,AO
 1980,Angola,2195910.0,tC,LULUCF Net Emissions,GCB,AO
-1981,Angola,2085049.9999999998,tC,LULUCF Net Emissions,GCB,AO
+1981,Angola,2085050.0,tC,LULUCF Net Emissions,GCB,AO
 1982,Angola,1804640.0,tC,LULUCF Net Emissions,GCB,AO
 1983,Angola,1604280.0,tC,LULUCF Net Emissions,GCB,AO
 1984,Angola,1696380.0,tC,LULUCF Net Emissions,GCB,AO
@@ -286,7 +286,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1988,Angola,1732580.0,tC,LULUCF Net Emissions,GCB,AO
 1989,Angola,1998590.0,tC,LULUCF Net Emissions,GCB,AO
 1990,Angola,3306920.0,tC,LULUCF Net Emissions,GCB,AO
-1991,Angola,4105419.9999999995,tC,LULUCF Net Emissions,GCB,AO
+1991,Angola,4105420.0,tC,LULUCF Net Emissions,GCB,AO
 1992,Angola,3985570.0,tC,LULUCF Net Emissions,GCB,AO
 1993,Angola,4524220.0,tC,LULUCF Net Emissions,GCB,AO
 1994,Angola,5166150.0,tC,LULUCF Net Emissions,GCB,AO
@@ -366,9 +366,9 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2004,Antigua and Barbuda,-5440.0,tC,LULUCF Net Emissions,GCB,AG
 2005,Antigua and Barbuda,-5250.0,tC,LULUCF Net Emissions,GCB,AG
 2006,Antigua and Barbuda,-4710.0,tC,LULUCF Net Emissions,GCB,AG
-2007,Antigua and Barbuda,-3969.9999999999995,tC,LULUCF Net Emissions,GCB,AG
+2007,Antigua and Barbuda,-3970.0,tC,LULUCF Net Emissions,GCB,AG
 2008,Antigua and Barbuda,-3240.0,tC,LULUCF Net Emissions,GCB,AG
-2009,Antigua and Barbuda,-4009.9999999999995,tC,LULUCF Net Emissions,GCB,AG
+2009,Antigua and Barbuda,-4010.0,tC,LULUCF Net Emissions,GCB,AG
 2010,Antigua and Barbuda,-4020.0,tC,LULUCF Net Emissions,GCB,AG
 2011,Antigua and Barbuda,-3980.0,tC,LULUCF Net Emissions,GCB,AG
 2012,Antigua and Barbuda,-3670.0,tC,LULUCF Net Emissions,GCB,AG
@@ -505,7 +505,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2015,Armenia,193770.0,tC,LULUCF Net Emissions,GCB,AM
 2016,Armenia,170280.0,tC,LULUCF Net Emissions,GCB,AM
 2017,Armenia,146950.0,tC,LULUCF Net Emissions,GCB,AM
-2018,Armenia,130069.99999999999,tC,LULUCF Net Emissions,GCB,AM
+2018,Armenia,130070.0,tC,LULUCF Net Emissions,GCB,AM
 2019,Armenia,119310.0,tC,LULUCF Net Emissions,GCB,AM
 2020,Armenia,109040.0,tC,LULUCF Net Emissions,GCB,AM
 2021,Armenia,110070.0,tC,LULUCF Net Emissions,GCB,AM
@@ -590,7 +590,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1972,Austria,-1921440.0,tC,LULUCF Net Emissions,GCB,AT
 1973,Austria,-1937280.0,tC,LULUCF Net Emissions,GCB,AT
 1974,Austria,-2032390.0,tC,LULUCF Net Emissions,GCB,AT
-1975,Austria,-2021040.0000000002,tC,LULUCF Net Emissions,GCB,AT
+1975,Austria,-2021040.0,tC,LULUCF Net Emissions,GCB,AT
 1976,Austria,-1820490.0,tC,LULUCF Net Emissions,GCB,AT
 1977,Austria,-1785970.0,tC,LULUCF Net Emissions,GCB,AT
 1978,Austria,-1875250.0,tC,LULUCF Net Emissions,GCB,AT
@@ -874,7 +874,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2000,Bangladesh,1004110.0,tC,LULUCF Net Emissions,GCB,BD
 2001,Bangladesh,721890.0,tC,LULUCF Net Emissions,GCB,BD
 2002,Bangladesh,595920.0,tC,LULUCF Net Emissions,GCB,BD
-2003,Bangladesh,524159.99999999994,tC,LULUCF Net Emissions,GCB,BD
+2003,Bangladesh,524160.0,tC,LULUCF Net Emissions,GCB,BD
 2004,Bangladesh,459880.0,tC,LULUCF Net Emissions,GCB,BD
 2005,Bangladesh,154480.0,tC,LULUCF Net Emissions,GCB,BD
 2006,Bangladesh,89260.0,tC,LULUCF Net Emissions,GCB,BD
@@ -995,7 +995,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1993,Belarus,2482450.0,tC,LULUCF Net Emissions,GCB,BY
 1994,Belarus,3238620.0,tC,LULUCF Net Emissions,GCB,BY
 1995,Belarus,2428130.0,tC,LULUCF Net Emissions,GCB,BY
-1996,Belarus,2084630.0000000002,tC,LULUCF Net Emissions,GCB,BY
+1996,Belarus,2084630.0,tC,LULUCF Net Emissions,GCB,BY
 1997,Belarus,2168350.0,tC,LULUCF Net Emissions,GCB,BY
 1998,Belarus,2609100.0,tC,LULUCF Net Emissions,GCB,BY
 1999,Belarus,2999950.0,tC,LULUCF Net Emissions,GCB,BY
@@ -1009,7 +1009,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2007,Belarus,590810.0,tC,LULUCF Net Emissions,GCB,BY
 2008,Belarus,744150.0,tC,LULUCF Net Emissions,GCB,BY
 2009,Belarus,831820.0,tC,LULUCF Net Emissions,GCB,BY
-2010,Belarus,1005309.9999999999,tC,LULUCF Net Emissions,GCB,BY
+2010,Belarus,1005310.0,tC,LULUCF Net Emissions,GCB,BY
 2011,Belarus,790380.0,tC,LULUCF Net Emissions,GCB,BY
 2012,Belarus,1262840.0,tC,LULUCF Net Emissions,GCB,BY
 2013,Belarus,2160490.0,tC,LULUCF Net Emissions,GCB,BY
@@ -1061,11 +1061,11 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1995,Belgium,193030.0,tC,LULUCF Net Emissions,GCB,BE
 1996,Belgium,304500.0,tC,LULUCF Net Emissions,GCB,BE
 1997,Belgium,185580.0,tC,LULUCF Net Emissions,GCB,BE
-1998,Belgium,127739.99999999999,tC,LULUCF Net Emissions,GCB,BE
+1998,Belgium,127740.0,tC,LULUCF Net Emissions,GCB,BE
 1999,Belgium,391100.0,tC,LULUCF Net Emissions,GCB,BE
 2000,Belgium,92010.0,tC,LULUCF Net Emissions,GCB,BE
 2001,Belgium,-46820.0,tC,LULUCF Net Emissions,GCB,BE
-2002,Belgium,-2040.0000000000002,tC,LULUCF Net Emissions,GCB,BE
+2002,Belgium,-2040.0,tC,LULUCF Net Emissions,GCB,BE
 2003,Belgium,185850.0,tC,LULUCF Net Emissions,GCB,BE
 2004,Belgium,539790.0,tC,LULUCF Net Emissions,GCB,BE
 2005,Belgium,166140.0,tC,LULUCF Net Emissions,GCB,BE
@@ -1082,7 +1082,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2016,Belgium,358070.0,tC,LULUCF Net Emissions,GCB,BE
 2017,Belgium,477510.0,tC,LULUCF Net Emissions,GCB,BE
 2018,Belgium,473330.0,tC,LULUCF Net Emissions,GCB,BE
-2019,Belgium,514399.99999999994,tC,LULUCF Net Emissions,GCB,BE
+2019,Belgium,514400.0,tC,LULUCF Net Emissions,GCB,BE
 2020,Belgium,475960.0,tC,LULUCF Net Emissions,GCB,BE
 2021,Belgium,505290.0,tC,LULUCF Net Emissions,GCB,BE
 2022,Belgium,488570.0,tC,LULUCF Net Emissions,GCB,BE
@@ -1218,7 +1218,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1960,Bhutan,2154100.0,tC,LULUCF Net Emissions,GCB,BT
 1961,Bhutan,2644960.0,tC,LULUCF Net Emissions,GCB,BT
 1962,Bhutan,1964100.0,tC,LULUCF Net Emissions,GCB,BT
-1963,Bhutan,2096029.9999999998,tC,LULUCF Net Emissions,GCB,BT
+1963,Bhutan,2096030.0,tC,LULUCF Net Emissions,GCB,BT
 1964,Bhutan,2292530.0,tC,LULUCF Net Emissions,GCB,BT
 1965,Bhutan,2272500.0,tC,LULUCF Net Emissions,GCB,BT
 1966,Bhutan,2333880.0,tC,LULUCF Net Emissions,GCB,BT
@@ -1317,7 +1317,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1995,Bolivia,25336920.0,tC,LULUCF Net Emissions,GCB,BO
 1996,Bolivia,25887120.0,tC,LULUCF Net Emissions,GCB,BO
 1997,Bolivia,26855430.0,tC,LULUCF Net Emissions,GCB,BO
-1998,Bolivia,32978029.999999996,tC,LULUCF Net Emissions,GCB,BO
+1998,Bolivia,32978030.0,tC,LULUCF Net Emissions,GCB,BO
 1999,Bolivia,27365290.0,tC,LULUCF Net Emissions,GCB,BO
 2000,Bolivia,21660750.0,tC,LULUCF Net Emissions,GCB,BO
 2001,Bolivia,21362540.0,tC,LULUCF Net Emissions,GCB,BO
@@ -1377,7 +1377,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1991,Bosnia and Herzegovina,-1369240.0,tC,LULUCF Net Emissions,GCB,BA
 1992,Bosnia and Herzegovina,-1423930.0,tC,LULUCF Net Emissions,GCB,BA
 1993,Bosnia and Herzegovina,-1351710.0,tC,LULUCF Net Emissions,GCB,BA
-1994,Bosnia and Herzegovina,-1016990.0000000001,tC,LULUCF Net Emissions,GCB,BA
+1994,Bosnia and Herzegovina,-1016990.0,tC,LULUCF Net Emissions,GCB,BA
 1995,Bosnia and Herzegovina,-933080.0,tC,LULUCF Net Emissions,GCB,BA
 1996,Bosnia and Herzegovina,-896130.0,tC,LULUCF Net Emissions,GCB,BA
 1997,Bosnia and Herzegovina,-154240.0,tC,LULUCF Net Emissions,GCB,BA
@@ -1440,7 +1440,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1990,Botswana,647780.0,tC,LULUCF Net Emissions,GCB,BW
 1991,Botswana,704600.0,tC,LULUCF Net Emissions,GCB,BW
 1992,Botswana,1767210.0,tC,LULUCF Net Emissions,GCB,BW
-1993,Botswana,2068770.0000000002,tC,LULUCF Net Emissions,GCB,BW
+1993,Botswana,2068770.0,tC,LULUCF Net Emissions,GCB,BW
 1994,Botswana,1742350.0,tC,LULUCF Net Emissions,GCB,BW
 1995,Botswana,1718420.0,tC,LULUCF Net Emissions,GCB,BW
 1996,Botswana,1409990.0,tC,LULUCF Net Emissions,GCB,BW
@@ -1579,7 +1579,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2001,Brunei Darussalam,301600.0,tC,LULUCF Net Emissions,GCB,BN
 2002,Brunei Darussalam,314220.0,tC,LULUCF Net Emissions,GCB,BN
 2003,Brunei Darussalam,342470.0,tC,LULUCF Net Emissions,GCB,BN
-2004,Brunei Darussalam,258969.99999999997,tC,LULUCF Net Emissions,GCB,BN
+2004,Brunei Darussalam,258970.0,tC,LULUCF Net Emissions,GCB,BN
 2005,Brunei Darussalam,283330.0,tC,LULUCF Net Emissions,GCB,BN
 2006,Brunei Darussalam,261560.00000000003,tC,LULUCF Net Emissions,GCB,BN
 2007,Brunei Darussalam,324280.0,tC,LULUCF Net Emissions,GCB,BN
@@ -1605,7 +1605,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1963,Bulgaria,1357490.0,tC,LULUCF Net Emissions,GCB,BG
 1964,Bulgaria,991800.0,tC,LULUCF Net Emissions,GCB,BG
 1965,Bulgaria,848810.0,tC,LULUCF Net Emissions,GCB,BG
-1966,Bulgaria,1035029.9999999999,tC,LULUCF Net Emissions,GCB,BG
+1966,Bulgaria,1035030.0,tC,LULUCF Net Emissions,GCB,BG
 1967,Bulgaria,877460.0,tC,LULUCF Net Emissions,GCB,BG
 1968,Bulgaria,1549570.0,tC,LULUCF Net Emissions,GCB,BG
 1969,Bulgaria,834910.0,tC,LULUCF Net Emissions,GCB,BG
@@ -1615,8 +1615,8 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1973,Bulgaria,476770.0,tC,LULUCF Net Emissions,GCB,BG
 1974,Bulgaria,-247370.0,tC,LULUCF Net Emissions,GCB,BG
 1975,Bulgaria,1212750.0,tC,LULUCF Net Emissions,GCB,BG
-1976,Bulgaria,513719.99999999994,tC,LULUCF Net Emissions,GCB,BG
-1977,Bulgaria,128700.00000000001,tC,LULUCF Net Emissions,GCB,BG
+1976,Bulgaria,513720.0,tC,LULUCF Net Emissions,GCB,BG
+1977,Bulgaria,128700.0,tC,LULUCF Net Emissions,GCB,BG
 1978,Bulgaria,-43000.0,tC,LULUCF Net Emissions,GCB,BG
 1979,Bulgaria,-372430.0,tC,LULUCF Net Emissions,GCB,BG
 1980,Bulgaria,-290650.0,tC,LULUCF Net Emissions,GCB,BG
@@ -1647,7 +1647,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2005,Bulgaria,-2252640.0,tC,LULUCF Net Emissions,GCB,BG
 2006,Bulgaria,-2383520.0,tC,LULUCF Net Emissions,GCB,BG
 2007,Bulgaria,-2286090.0,tC,LULUCF Net Emissions,GCB,BG
-2008,Bulgaria,-2088960.0000000002,tC,LULUCF Net Emissions,GCB,BG
+2008,Bulgaria,-2088960.0,tC,LULUCF Net Emissions,GCB,BG
 2009,Bulgaria,-1638320.0,tC,LULUCF Net Emissions,GCB,BG
 2010,Bulgaria,-1225150.0,tC,LULUCF Net Emissions,GCB,BG
 2011,Bulgaria,-773950.0,tC,LULUCF Net Emissions,GCB,BG
@@ -1674,7 +1674,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1968,Burkina Faso,1458270.0,tC,LULUCF Net Emissions,GCB,BF
 1969,Burkina Faso,1480730.0,tC,LULUCF Net Emissions,GCB,BF
 1970,Burkina Faso,1339830.0,tC,LULUCF Net Emissions,GCB,BF
-1971,Burkina Faso,2062399.9999999998,tC,LULUCF Net Emissions,GCB,BF
+1971,Burkina Faso,2062400.0,tC,LULUCF Net Emissions,GCB,BF
 1972,Burkina Faso,2394450.0,tC,LULUCF Net Emissions,GCB,BF
 1973,Burkina Faso,2736250.0,tC,LULUCF Net Emissions,GCB,BF
 1974,Burkina Faso,3028750.0,tC,LULUCF Net Emissions,GCB,BF
@@ -1733,7 +1733,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1963,Burundi,2242560.0,tC,LULUCF Net Emissions,GCB,BI
 1964,Burundi,2117190.0,tC,LULUCF Net Emissions,GCB,BI
 1965,Burundi,1956670.0,tC,LULUCF Net Emissions,GCB,BI
-1966,Burundi,2016900.0000000002,tC,LULUCF Net Emissions,GCB,BI
+1966,Burundi,2016900.0,tC,LULUCF Net Emissions,GCB,BI
 1967,Burundi,1951260.0,tC,LULUCF Net Emissions,GCB,BI
 1968,Burundi,2544410.0,tC,LULUCF Net Emissions,GCB,BI
 1969,Burundi,1967090.0,tC,LULUCF Net Emissions,GCB,BI
@@ -1838,7 +1838,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2004,Cambodia,8999140.0,tC,LULUCF Net Emissions,GCB,KH
 2005,Cambodia,6096390.0,tC,LULUCF Net Emissions,GCB,KH
 2006,Cambodia,4471000.0,tC,LULUCF Net Emissions,GCB,KH
-2007,Cambodia,4043879.9999999995,tC,LULUCF Net Emissions,GCB,KH
+2007,Cambodia,4043880.0,tC,LULUCF Net Emissions,GCB,KH
 2008,Cambodia,3954450.0,tC,LULUCF Net Emissions,GCB,KH
 2009,Cambodia,5293730.0,tC,LULUCF Net Emissions,GCB,KH
 2010,Cambodia,6437150.0,tC,LULUCF Net Emissions,GCB,KH
@@ -1998,7 +1998,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1972,Cape Verde,5310.0,tC,LULUCF Net Emissions,GCB,CV
 1973,Cape Verde,5110.0,tC,LULUCF Net Emissions,GCB,CV
 1974,Cape Verde,4580.0,tC,LULUCF Net Emissions,GCB,CV
-1975,Cape Verde,4029.9999999999995,tC,LULUCF Net Emissions,GCB,CV
+1975,Cape Verde,4030.0,tC,LULUCF Net Emissions,GCB,CV
 1976,Cape Verde,3460.0,tC,LULUCF Net Emissions,GCB,CV
 1977,Cape Verde,2990.0,tC,LULUCF Net Emissions,GCB,CV
 1978,Cape Verde,2770.0,tC,LULUCF Net Emissions,GCB,CV
@@ -2016,7 +2016,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1990,Cape Verde,5380.0,tC,LULUCF Net Emissions,GCB,CV
 1991,Cape Verde,8690.0,tC,LULUCF Net Emissions,GCB,CV
 1992,Cape Verde,4980.0,tC,LULUCF Net Emissions,GCB,CV
-1993,Cape Verde,3969.9999999999995,tC,LULUCF Net Emissions,GCB,CV
+1993,Cape Verde,3970.0,tC,LULUCF Net Emissions,GCB,CV
 1994,Cape Verde,7979.999999999999,tC,LULUCF Net Emissions,GCB,CV
 1995,Cape Verde,6090.0,tC,LULUCF Net Emissions,GCB,CV
 1996,Cape Verde,14240.0,tC,LULUCF Net Emissions,GCB,CV
@@ -2074,13 +2074,13 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1984,Central African Republic,2129460.0,tC,LULUCF Net Emissions,GCB,CF
 1985,Central African Republic,2151920.0,tC,LULUCF Net Emissions,GCB,CF
 1986,Central African Republic,2116430.0,tC,LULUCF Net Emissions,GCB,CF
-1987,Central African Republic,2096509.9999999998,tC,LULUCF Net Emissions,GCB,CF
+1987,Central African Republic,2096510.0,tC,LULUCF Net Emissions,GCB,CF
 1988,Central African Republic,2082220.0,tC,LULUCF Net Emissions,GCB,CF
-1989,Central African Republic,2020169.9999999998,tC,LULUCF Net Emissions,GCB,CF
+1989,Central African Republic,2020170.0,tC,LULUCF Net Emissions,GCB,CF
 1990,Central African Republic,2019930.0,tC,LULUCF Net Emissions,GCB,CF
 1991,Central African Republic,2107980.0,tC,LULUCF Net Emissions,GCB,CF
-1992,Central African Republic,2092239.9999999998,tC,LULUCF Net Emissions,GCB,CF
-1993,Central African Republic,2052649.9999999998,tC,LULUCF Net Emissions,GCB,CF
+1992,Central African Republic,2092240.0,tC,LULUCF Net Emissions,GCB,CF
+1993,Central African Republic,2052650.0,tC,LULUCF Net Emissions,GCB,CF
 1994,Central African Republic,2121230.0,tC,LULUCF Net Emissions,GCB,CF
 1995,Central African Republic,2158470.0,tC,LULUCF Net Emissions,GCB,CF
 1996,Central African Republic,2141520.0,tC,LULUCF Net Emissions,GCB,CF
@@ -2146,7 +2146,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1992,Chad,1829950.0,tC,LULUCF Net Emissions,GCB,TD
 1993,Chad,1815530.0,tC,LULUCF Net Emissions,GCB,TD
 1994,Chad,1974350.0,tC,LULUCF Net Emissions,GCB,TD
-1995,Chad,2010600.0000000002,tC,LULUCF Net Emissions,GCB,TD
+1995,Chad,2010600.0,tC,LULUCF Net Emissions,GCB,TD
 1996,Chad,3680360.0,tC,LULUCF Net Emissions,GCB,TD
 1997,Chad,2821660.0,tC,LULUCF Net Emissions,GCB,TD
 1998,Chad,2285630.0,tC,LULUCF Net Emissions,GCB,TD
@@ -2199,7 +2199,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1981,Chile,3376330.0,tC,LULUCF Net Emissions,GCB,CL
 1982,Chile,2814210.0,tC,LULUCF Net Emissions,GCB,CL
 1983,Chile,2503680.0,tC,LULUCF Net Emissions,GCB,CL
-1984,Chile,2034740.0000000002,tC,LULUCF Net Emissions,GCB,CL
+1984,Chile,2034740.0,tC,LULUCF Net Emissions,GCB,CL
 1985,Chile,1644770.0,tC,LULUCF Net Emissions,GCB,CL
 1986,Chile,737600.0,tC,LULUCF Net Emissions,GCB,CL
 1987,Chile,551880.0,tC,LULUCF Net Emissions,GCB,CL
@@ -2229,12 +2229,12 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2011,Chile,2219870.0,tC,LULUCF Net Emissions,GCB,CL
 2012,Chile,2344840.0,tC,LULUCF Net Emissions,GCB,CL
 2013,Chile,2211150.0,tC,LULUCF Net Emissions,GCB,CL
-2014,Chile,2044919.9999999998,tC,LULUCF Net Emissions,GCB,CL
+2014,Chile,2044920.0,tC,LULUCF Net Emissions,GCB,CL
 2015,Chile,2103150.0,tC,LULUCF Net Emissions,GCB,CL
 2016,Chile,1694210.0,tC,LULUCF Net Emissions,GCB,CL
 2017,Chile,1752440.0,tC,LULUCF Net Emissions,GCB,CL
 2018,Chile,1414220.0,tC,LULUCF Net Emissions,GCB,CL
-2019,Chile,1039570.0000000001,tC,LULUCF Net Emissions,GCB,CL
+2019,Chile,1039570.0,tC,LULUCF Net Emissions,GCB,CL
 2020,Chile,807060.0,tC,LULUCF Net Emissions,GCB,CL
 2021,Chile,378510.0,tC,LULUCF Net Emissions,GCB,CL
 2022,Chile,90670.0,tC,LULUCF Net Emissions,GCB,CL
@@ -2462,7 +2462,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1988,Congo,1866410.0,tC,LULUCF Net Emissions,GCB,CG
 1989,Congo,1360260.0,tC,LULUCF Net Emissions,GCB,CG
 1990,Congo,1852540.0,tC,LULUCF Net Emissions,GCB,CG
-1991,Congo,2080239.9999999998,tC,LULUCF Net Emissions,GCB,CG
+1991,Congo,2080240.0,tC,LULUCF Net Emissions,GCB,CG
 1992,Congo,2301810.0,tC,LULUCF Net Emissions,GCB,CG
 1993,Congo,951950.0,tC,LULUCF Net Emissions,GCB,CG
 1994,Congo,2348300.0,tC,LULUCF Net Emissions,GCB,CG
@@ -2478,7 +2478,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2004,Congo,3802000.0,tC,LULUCF Net Emissions,GCB,CG
 2005,Congo,3591430.0,tC,LULUCF Net Emissions,GCB,CG
 2006,Congo,2731070.0,tC,LULUCF Net Emissions,GCB,CG
-2007,Congo,4101200.0000000005,tC,LULUCF Net Emissions,GCB,CG
+2007,Congo,4101200.000000001,tC,LULUCF Net Emissions,GCB,CG
 2008,Congo,4132480.0,tC,LULUCF Net Emissions,GCB,CG
 2009,Congo,4853080.0,tC,LULUCF Net Emissions,GCB,CG
 2010,Congo,5565850.0,tC,LULUCF Net Emissions,GCB,CG
@@ -2500,7 +2500,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1962,Cook Islands,6100.0,tC,LULUCF Net Emissions,GCB,CK
 1963,Cook Islands,5610.0,tC,LULUCF Net Emissions,GCB,CK
 1964,Cook Islands,4740.0,tC,LULUCF Net Emissions,GCB,CK
-1965,Cook Islands,3969.9999999999995,tC,LULUCF Net Emissions,GCB,CK
+1965,Cook Islands,3970.0,tC,LULUCF Net Emissions,GCB,CK
 1966,Cook Islands,3300.0,tC,LULUCF Net Emissions,GCB,CK
 1967,Cook Islands,2750.0,tC,LULUCF Net Emissions,GCB,CK
 1968,Cook Islands,2350.0,tC,LULUCF Net Emissions,GCB,CK
@@ -2551,7 +2551,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2013,Cook Islands,-4880.0,tC,LULUCF Net Emissions,GCB,CK
 2014,Cook Islands,-4190.0,tC,LULUCF Net Emissions,GCB,CK
 2015,Cook Islands,-4020.0,tC,LULUCF Net Emissions,GCB,CK
-2016,Cook Islands,-4080.0000000000005,tC,LULUCF Net Emissions,GCB,CK
+2016,Cook Islands,-4080.000000000001,tC,LULUCF Net Emissions,GCB,CK
 2017,Cook Islands,-4000.0,tC,LULUCF Net Emissions,GCB,CK
 2018,Cook Islands,-3870.0,tC,LULUCF Net Emissions,GCB,CK
 2019,Cook Islands,-3760.0,tC,LULUCF Net Emissions,GCB,CK
@@ -2561,7 +2561,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2023,Cook Islands,-3400.0,tC,LULUCF Net Emissions,GCB,CK
 1960,Costa Rica,5039850.0,tC,LULUCF Net Emissions,GCB,CR
 1961,Costa Rica,4842580.0,tC,LULUCF Net Emissions,GCB,CR
-1962,Costa Rica,4093569.9999999995,tC,LULUCF Net Emissions,GCB,CR
+1962,Costa Rica,4093570.0,tC,LULUCF Net Emissions,GCB,CR
 1963,Costa Rica,6515160.0,tC,LULUCF Net Emissions,GCB,CR
 1964,Costa Rica,7402760.0,tC,LULUCF Net Emissions,GCB,CR
 1965,Costa Rica,8355470.0,tC,LULUCF Net Emissions,GCB,CR
@@ -2583,7 +2583,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1981,Costa Rica,11991140.0,tC,LULUCF Net Emissions,GCB,CR
 1982,Costa Rica,5057040.0,tC,LULUCF Net Emissions,GCB,CR
 1983,Costa Rica,9385920.0,tC,LULUCF Net Emissions,GCB,CR
-1984,Costa Rica,4014719.9999999995,tC,LULUCF Net Emissions,GCB,CR
+1984,Costa Rica,4014720.0,tC,LULUCF Net Emissions,GCB,CR
 1985,Costa Rica,2953110.0,tC,LULUCF Net Emissions,GCB,CR
 1986,Costa Rica,2495120.0,tC,LULUCF Net Emissions,GCB,CR
 1987,Costa Rica,2174590.0,tC,LULUCF Net Emissions,GCB,CR
@@ -2594,7 +2594,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1992,Costa Rica,951160.0,tC,LULUCF Net Emissions,GCB,CR
 1993,Costa Rica,661900.0,tC,LULUCF Net Emissions,GCB,CR
 1994,Costa Rica,2026920.0,tC,LULUCF Net Emissions,GCB,CR
-1995,Costa Rica,1022860.0000000001,tC,LULUCF Net Emissions,GCB,CR
+1995,Costa Rica,1022860.0,tC,LULUCF Net Emissions,GCB,CR
 1996,Costa Rica,1291990.0,tC,LULUCF Net Emissions,GCB,CR
 1997,Costa Rica,601310.0,tC,LULUCF Net Emissions,GCB,CR
 1998,Costa Rica,758970.0,tC,LULUCF Net Emissions,GCB,CR
@@ -2624,7 +2624,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2022,Costa Rica,1187750.0,tC,LULUCF Net Emissions,GCB,CR
 2023,Costa Rica,1153030.0,tC,LULUCF Net Emissions,GCB,CR
 1960,Croatia,1148970.0,tC,LULUCF Net Emissions,GCB,HR
-1961,Croatia,1022110.0000000001,tC,LULUCF Net Emissions,GCB,HR
+1961,Croatia,1022110.0,tC,LULUCF Net Emissions,GCB,HR
 1962,Croatia,897440.0,tC,LULUCF Net Emissions,GCB,HR
 1963,Croatia,813880.0,tC,LULUCF Net Emissions,GCB,HR
 1964,Croatia,720430.0,tC,LULUCF Net Emissions,GCB,HR
@@ -2634,7 +2634,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1968,Croatia,448070.0,tC,LULUCF Net Emissions,GCB,HR
 1969,Croatia,320260.0,tC,LULUCF Net Emissions,GCB,HR
 1970,Croatia,253610.0,tC,LULUCF Net Emissions,GCB,HR
-1971,Croatia,252479.99999999997,tC,LULUCF Net Emissions,GCB,HR
+1971,Croatia,252480.0,tC,LULUCF Net Emissions,GCB,HR
 1972,Croatia,43410.0,tC,LULUCF Net Emissions,GCB,HR
 1973,Croatia,43710.0,tC,LULUCF Net Emissions,GCB,HR
 1974,Croatia,-86110.0,tC,LULUCF Net Emissions,GCB,HR
@@ -2740,7 +2740,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2010,Cuba,-1612300.0,tC,LULUCF Net Emissions,GCB,CU
 2011,Cuba,-3031590.0,tC,LULUCF Net Emissions,GCB,CU
 2012,Cuba,-1858070.0,tC,LULUCF Net Emissions,GCB,CU
-2013,Cuba,-2056229.9999999998,tC,LULUCF Net Emissions,GCB,CU
+2013,Cuba,-2056230.0,tC,LULUCF Net Emissions,GCB,CU
 2014,Cuba,-1869900.0,tC,LULUCF Net Emissions,GCB,CU
 2015,Cuba,-2234570.0,tC,LULUCF Net Emissions,GCB,CU
 2016,Cuba,-333040.0,tC,LULUCF Net Emissions,GCB,CU
@@ -2761,7 +2761,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1967,Cyprus,65660.0,tC,LULUCF Net Emissions,GCB,CY
 1968,Cyprus,52510.0,tC,LULUCF Net Emissions,GCB,CY
 1969,Cyprus,42620.0,tC,LULUCF Net Emissions,GCB,CY
-1970,Cyprus,32239.999999999996,tC,LULUCF Net Emissions,GCB,CY
+1970,Cyprus,32240.0,tC,LULUCF Net Emissions,GCB,CY
 1971,Cyprus,24340.0,tC,LULUCF Net Emissions,GCB,CY
 1972,Cyprus,17350.0,tC,LULUCF Net Emissions,GCB,CY
 1973,Cyprus,-239090.0,tC,LULUCF Net Emissions,GCB,CY
@@ -3005,8 +3005,8 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2019,Democratic Republic of the Congo,132785210.0,tC,LULUCF Net Emissions,GCB,CD
 2020,Democratic Republic of the Congo,118336890.0,tC,LULUCF Net Emissions,GCB,CD
 2021,Democratic Republic of the Congo,121945530.0,tC,LULUCF Net Emissions,GCB,CD
-2022,Democratic Republic of the Congo,128156990.00000001,tC,LULUCF Net Emissions,GCB,CD
-2023,Democratic Republic of the Congo,129132839.99999999,tC,LULUCF Net Emissions,GCB,CD
+2022,Democratic Republic of the Congo,128156990.0,tC,LULUCF Net Emissions,GCB,CD
+2023,Democratic Republic of the Congo,129132840.0,tC,LULUCF Net Emissions,GCB,CD
 1960,Denmark,2077070.0,tC,LULUCF Net Emissions,GCB,DK
 1961,Denmark,1117100.0,tC,LULUCF Net Emissions,GCB,DK
 1962,Denmark,727680.0,tC,LULUCF Net Emissions,GCB,DK
@@ -3070,7 +3070,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2020,Denmark,473210.0,tC,LULUCF Net Emissions,GCB,DK
 2021,Denmark,507430.00000000006,tC,LULUCF Net Emissions,GCB,DK
 2022,Denmark,470200.0,tC,LULUCF Net Emissions,GCB,DK
-2023,Denmark,503229.99999999994,tC,LULUCF Net Emissions,GCB,DK
+2023,Denmark,503230.0,tC,LULUCF Net Emissions,GCB,DK
 1960,Djibouti,-11210.0,tC,LULUCF Net Emissions,GCB,DJ
 1961,Djibouti,-11080.0,tC,LULUCF Net Emissions,GCB,DJ
 1962,Djibouti,-8740.0,tC,LULUCF Net Emissions,GCB,DJ
@@ -3258,7 +3258,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2016,Dominican Republic,211430.0,tC,LULUCF Net Emissions,GCB,DO
 2017,Dominican Republic,22470.0,tC,LULUCF Net Emissions,GCB,DO
 2018,Dominican Republic,-241900.0,tC,LULUCF Net Emissions,GCB,DO
-2019,Dominican Republic,-261139.99999999997,tC,LULUCF Net Emissions,GCB,DO
+2019,Dominican Republic,-261140.0,tC,LULUCF Net Emissions,GCB,DO
 2020,Dominican Republic,-288510.0,tC,LULUCF Net Emissions,GCB,DO
 2021,Dominican Republic,-285550.0,tC,LULUCF Net Emissions,GCB,DO
 2022,Dominican Republic,-303230.0,tC,LULUCF Net Emissions,GCB,DO
@@ -3308,7 +3308,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2002,Ecuador,4282880.0,tC,LULUCF Net Emissions,GCB,EC
 2003,Ecuador,19895170.0,tC,LULUCF Net Emissions,GCB,EC
 2004,Ecuador,6327750.0,tC,LULUCF Net Emissions,GCB,EC
-2005,Ecuador,4176040.0000000005,tC,LULUCF Net Emissions,GCB,EC
+2005,Ecuador,4176040.000000001,tC,LULUCF Net Emissions,GCB,EC
 2006,Ecuador,4776710.0,tC,LULUCF Net Emissions,GCB,EC
 2007,Ecuador,5365590.0,tC,LULUCF Net Emissions,GCB,EC
 2008,Ecuador,4304110.0,tC,LULUCF Net Emissions,GCB,EC
@@ -3320,7 +3320,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2014,Ecuador,14678490.0,tC,LULUCF Net Emissions,GCB,EC
 2015,Ecuador,5265980.0,tC,LULUCF Net Emissions,GCB,EC
 2016,Ecuador,4289770.0,tC,LULUCF Net Emissions,GCB,EC
-2017,Ecuador,2081710.0000000002,tC,LULUCF Net Emissions,GCB,EC
+2017,Ecuador,2081710.0,tC,LULUCF Net Emissions,GCB,EC
 2018,Ecuador,2396350.0,tC,LULUCF Net Emissions,GCB,EC
 2019,Ecuador,8503860.0,tC,LULUCF Net Emissions,GCB,EC
 2020,Ecuador,5993320.0,tC,LULUCF Net Emissions,GCB,EC
@@ -3347,7 +3347,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1977,Egypt,270900.0,tC,LULUCF Net Emissions,GCB,EG
 1978,Egypt,179770.0,tC,LULUCF Net Emissions,GCB,EG
 1979,Egypt,189820.0,tC,LULUCF Net Emissions,GCB,EG
-1980,Egypt,250139.99999999997,tC,LULUCF Net Emissions,GCB,EG
+1980,Egypt,250140.0,tC,LULUCF Net Emissions,GCB,EG
 1981,Egypt,206480.0,tC,LULUCF Net Emissions,GCB,EG
 1982,Egypt,217540.0,tC,LULUCF Net Emissions,GCB,EG
 1983,Egypt,337300.0,tC,LULUCF Net Emissions,GCB,EG
@@ -3372,7 +3372,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2002,Egypt,725450.0,tC,LULUCF Net Emissions,GCB,EG
 2003,Egypt,1333330.0,tC,LULUCF Net Emissions,GCB,EG
 2004,Egypt,1273990.0,tC,LULUCF Net Emissions,GCB,EG
-2005,Egypt,1004629.9999999999,tC,LULUCF Net Emissions,GCB,EG
+2005,Egypt,1004630.0,tC,LULUCF Net Emissions,GCB,EG
 2006,Egypt,975810.0,tC,LULUCF Net Emissions,GCB,EG
 2007,Egypt,1096880.0,tC,LULUCF Net Emissions,GCB,EG
 2008,Egypt,1246440.0,tC,LULUCF Net Emissions,GCB,EG
@@ -3398,7 +3398,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1964,El Salvador,1334820.0,tC,LULUCF Net Emissions,GCB,SV
 1965,El Salvador,1202040.0,tC,LULUCF Net Emissions,GCB,SV
 1966,El Salvador,1038070.0,tC,LULUCF Net Emissions,GCB,SV
-1967,El Salvador,1021409.9999999999,tC,LULUCF Net Emissions,GCB,SV
+1967,El Salvador,1021410.0,tC,LULUCF Net Emissions,GCB,SV
 1968,El Salvador,826880.0,tC,LULUCF Net Emissions,GCB,SV
 1969,El Salvador,704360.0,tC,LULUCF Net Emissions,GCB,SV
 1970,El Salvador,1563850.0,tC,LULUCF Net Emissions,GCB,SV
@@ -3420,7 +3420,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1986,El Salvador,1343870.0,tC,LULUCF Net Emissions,GCB,SV
 1987,El Salvador,1839640.0,tC,LULUCF Net Emissions,GCB,SV
 1988,El Salvador,976220.0,tC,LULUCF Net Emissions,GCB,SV
-1989,El Salvador,1032650.0000000001,tC,LULUCF Net Emissions,GCB,SV
+1989,El Salvador,1032650.0,tC,LULUCF Net Emissions,GCB,SV
 1990,El Salvador,1239540.0,tC,LULUCF Net Emissions,GCB,SV
 1991,El Salvador,1441010.0,tC,LULUCF Net Emissions,GCB,SV
 1992,El Salvador,1331690.0,tC,LULUCF Net Emissions,GCB,SV
@@ -3457,9 +3457,9 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2023,El Salvador,-601930.0,tC,LULUCF Net Emissions,GCB,SV
 1960,Equatorial Guinea,333230.0,tC,LULUCF Net Emissions,GCB,GQ
 1961,Equatorial Guinea,214850.0,tC,LULUCF Net Emissions,GCB,GQ
-1962,Equatorial Guinea,256469.99999999997,tC,LULUCF Net Emissions,GCB,GQ
+1962,Equatorial Guinea,256470.0,tC,LULUCF Net Emissions,GCB,GQ
 1963,Equatorial Guinea,-203840.0,tC,LULUCF Net Emissions,GCB,GQ
-1964,Equatorial Guinea,1001549.9999999999,tC,LULUCF Net Emissions,GCB,GQ
+1964,Equatorial Guinea,1001550.0,tC,LULUCF Net Emissions,GCB,GQ
 1965,Equatorial Guinea,233260.0,tC,LULUCF Net Emissions,GCB,GQ
 1966,Equatorial Guinea,-538280.0,tC,LULUCF Net Emissions,GCB,GQ
 1967,Equatorial Guinea,561160.0,tC,LULUCF Net Emissions,GCB,GQ
@@ -3487,7 +3487,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1989,Equatorial Guinea,335400.0,tC,LULUCF Net Emissions,GCB,GQ
 1990,Equatorial Guinea,694330.0,tC,LULUCF Net Emissions,GCB,GQ
 1991,Equatorial Guinea,258150.0,tC,LULUCF Net Emissions,GCB,GQ
-1992,Equatorial Guinea,255309.99999999997,tC,LULUCF Net Emissions,GCB,GQ
+1992,Equatorial Guinea,255310.0,tC,LULUCF Net Emissions,GCB,GQ
 1993,Equatorial Guinea,280040.0,tC,LULUCF Net Emissions,GCB,GQ
 1994,Equatorial Guinea,1080630.0,tC,LULUCF Net Emissions,GCB,GQ
 1995,Equatorial Guinea,556880.0,tC,LULUCF Net Emissions,GCB,GQ
@@ -3547,7 +3547,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1985,Eritrea,-1150.0,tC,LULUCF Net Emissions,GCB,ER
 1986,Eritrea,-21600.0,tC,LULUCF Net Emissions,GCB,ER
 1987,Eritrea,-25440.0,tC,LULUCF Net Emissions,GCB,ER
-1988,Eritrea,-31829.999999999996,tC,LULUCF Net Emissions,GCB,ER
+1988,Eritrea,-31830.0,tC,LULUCF Net Emissions,GCB,ER
 1989,Eritrea,-34580.0,tC,LULUCF Net Emissions,GCB,ER
 1990,Eritrea,-23030.0,tC,LULUCF Net Emissions,GCB,ER
 1991,Eritrea,18510.0,tC,LULUCF Net Emissions,GCB,ER
@@ -3626,9 +3626,9 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2000,Estonia,-1057710.0,tC,LULUCF Net Emissions,GCB,EE
 2001,Estonia,-1182240.0,tC,LULUCF Net Emissions,GCB,EE
 2002,Estonia,-480940.0,tC,LULUCF Net Emissions,GCB,EE
-2003,Estonia,-1007640.0000000001,tC,LULUCF Net Emissions,GCB,EE
+2003,Estonia,-1007640.0,tC,LULUCF Net Emissions,GCB,EE
 2004,Estonia,71180.0,tC,LULUCF Net Emissions,GCB,EE
-2005,Estonia,-503299.99999999994,tC,LULUCF Net Emissions,GCB,EE
+2005,Estonia,-503300.0,tC,LULUCF Net Emissions,GCB,EE
 2006,Estonia,-400800.0,tC,LULUCF Net Emissions,GCB,EE
 2007,Estonia,-482490.0,tC,LULUCF Net Emissions,GCB,EE
 2008,Estonia,-306090.0,tC,LULUCF Net Emissions,GCB,EE
@@ -3641,7 +3641,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2015,Estonia,278630.0,tC,LULUCF Net Emissions,GCB,EE
 2016,Estonia,144060.0,tC,LULUCF Net Emissions,GCB,EE
 2017,Estonia,222150.0,tC,LULUCF Net Emissions,GCB,EE
-2018,Estonia,261359.99999999997,tC,LULUCF Net Emissions,GCB,EE
+2018,Estonia,261360.0,tC,LULUCF Net Emissions,GCB,EE
 2019,Estonia,179840.0,tC,LULUCF Net Emissions,GCB,EE
 2020,Estonia,161520.0,tC,LULUCF Net Emissions,GCB,EE
 2021,Estonia,153420.0,tC,LULUCF Net Emissions,GCB,EE
@@ -3739,7 +3739,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1985,Fiji,698260.0,tC,LULUCF Net Emissions,GCB,FJ
 1986,Fiji,748700.0,tC,LULUCF Net Emissions,GCB,FJ
 1987,Fiji,915090.0,tC,LULUCF Net Emissions,GCB,FJ
-1988,Fiji,1028280.0000000001,tC,LULUCF Net Emissions,GCB,FJ
+1988,Fiji,1028280.0,tC,LULUCF Net Emissions,GCB,FJ
 1989,Fiji,1153770.0,tC,LULUCF Net Emissions,GCB,FJ
 1990,Fiji,918400.0,tC,LULUCF Net Emissions,GCB,FJ
 1991,Fiji,680660.0,tC,LULUCF Net Emissions,GCB,FJ
@@ -3753,7 +3753,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1999,Fiji,137740.0,tC,LULUCF Net Emissions,GCB,FJ
 2000,Fiji,78800.0,tC,LULUCF Net Emissions,GCB,FJ
 2001,Fiji,38480.0,tC,LULUCF Net Emissions,GCB,FJ
-2002,Fiji,-3950.0000000000005,tC,LULUCF Net Emissions,GCB,FJ
+2002,Fiji,-3950.000000000001,tC,LULUCF Net Emissions,GCB,FJ
 2003,Fiji,-21130.0,tC,LULUCF Net Emissions,GCB,FJ
 2004,Fiji,-42790.0,tC,LULUCF Net Emissions,GCB,FJ
 2005,Fiji,-18610.0,tC,LULUCF Net Emissions,GCB,FJ
@@ -3916,7 +3916,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Gabon,3080230.0,tC,LULUCF Net Emissions,GCB,GA
 1971,Gabon,3722680.0,tC,LULUCF Net Emissions,GCB,GA
 1972,Gabon,3883310.0,tC,LULUCF Net Emissions,GCB,GA
-1973,Gabon,4061670.0000000005,tC,LULUCF Net Emissions,GCB,GA
+1973,Gabon,4061670.000000001,tC,LULUCF Net Emissions,GCB,GA
 1974,Gabon,3606510.0,tC,LULUCF Net Emissions,GCB,GA
 1975,Gabon,5271960.0,tC,LULUCF Net Emissions,GCB,GA
 1976,Gabon,4883760.0,tC,LULUCF Net Emissions,GCB,GA
@@ -3931,7 +3931,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1985,Gabon,1599780.0,tC,LULUCF Net Emissions,GCB,GA
 1986,Gabon,711570.0,tC,LULUCF Net Emissions,GCB,GA
 1987,Gabon,859090.0,tC,LULUCF Net Emissions,GCB,GA
-1988,Gabon,1026799.9999999999,tC,LULUCF Net Emissions,GCB,GA
+1988,Gabon,1026800.0,tC,LULUCF Net Emissions,GCB,GA
 1989,Gabon,1229950.0,tC,LULUCF Net Emissions,GCB,GA
 1990,Gabon,1684630.0,tC,LULUCF Net Emissions,GCB,GA
 1991,Gabon,1152420.0,tC,LULUCF Net Emissions,GCB,GA
@@ -4051,7 +4051,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1977,Georgia,-1501460.0,tC,LULUCF Net Emissions,GCB,GE
 1978,Georgia,-1418440.0,tC,LULUCF Net Emissions,GCB,GE
 1979,Georgia,-1395910.0,tC,LULUCF Net Emissions,GCB,GE
-1980,Georgia,-1028389.9999999999,tC,LULUCF Net Emissions,GCB,GE
+1980,Georgia,-1028390.0,tC,LULUCF Net Emissions,GCB,GE
 1981,Georgia,-1286800.0,tC,LULUCF Net Emissions,GCB,GE
 1982,Georgia,-1160970.0,tC,LULUCF Net Emissions,GCB,GE
 1983,Georgia,-1101830.0,tC,LULUCF Net Emissions,GCB,GE
@@ -4073,7 +4073,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1999,Georgia,-907410.0,tC,LULUCF Net Emissions,GCB,GE
 2000,Georgia,-891720.0,tC,LULUCF Net Emissions,GCB,GE
 2001,Georgia,-801110.0,tC,LULUCF Net Emissions,GCB,GE
-2002,Georgia,1026999.9999999999,tC,LULUCF Net Emissions,GCB,GE
+2002,Georgia,1027000.0,tC,LULUCF Net Emissions,GCB,GE
 2003,Georgia,-1489990.0,tC,LULUCF Net Emissions,GCB,GE
 2004,Georgia,-1387650.0,tC,LULUCF Net Emissions,GCB,GE
 2005,Georgia,-1550860.0,tC,LULUCF Net Emissions,GCB,GE
@@ -4184,12 +4184,12 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1982,Ghana,3503110.0,tC,LULUCF Net Emissions,GCB,GH
 1983,Ghana,6233100.0,tC,LULUCF Net Emissions,GCB,GH
 1984,Ghana,5886410.0,tC,LULUCF Net Emissions,GCB,GH
-1985,Ghana,4056930.0000000005,tC,LULUCF Net Emissions,GCB,GH
+1985,Ghana,4056930.000000001,tC,LULUCF Net Emissions,GCB,GH
 1986,Ghana,4612120.0,tC,LULUCF Net Emissions,GCB,GH
 1987,Ghana,5035030.0,tC,LULUCF Net Emissions,GCB,GH
 1988,Ghana,3208160.0,tC,LULUCF Net Emissions,GCB,GH
 1989,Ghana,3919460.0,tC,LULUCF Net Emissions,GCB,GH
-1990,Ghana,4011650.0000000005,tC,LULUCF Net Emissions,GCB,GH
+1990,Ghana,4011650.000000001,tC,LULUCF Net Emissions,GCB,GH
 1991,Ghana,3063210.0,tC,LULUCF Net Emissions,GCB,GH
 1992,Ghana,4065920.0,tC,LULUCF Net Emissions,GCB,GH
 1993,Ghana,5639030.0,tC,LULUCF Net Emissions,GCB,GH
@@ -4248,7 +4248,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1982,Greece,169040.0,tC,LULUCF Net Emissions,GCB,GR
 1983,Greece,406220.0,tC,LULUCF Net Emissions,GCB,GR
 1984,Greece,196590.0,tC,LULUCF Net Emissions,GCB,GR
-1985,Greece,129370.00000000001,tC,LULUCF Net Emissions,GCB,GR
+1985,Greece,129370.0,tC,LULUCF Net Emissions,GCB,GR
 1986,Greece,134740.0,tC,LULUCF Net Emissions,GCB,GR
 1987,Greece,143890.0,tC,LULUCF Net Emissions,GCB,GR
 1988,Greece,463110.0,tC,LULUCF Net Emissions,GCB,GR
@@ -4303,8 +4303,8 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1973,Grenada,-2150.0,tC,LULUCF Net Emissions,GCB,GD
 1974,Grenada,-1980.0,tC,LULUCF Net Emissions,GCB,GD
 1975,Grenada,-1990.0,tC,LULUCF Net Emissions,GCB,GD
-1976,Grenada,-2040.0000000000002,tC,LULUCF Net Emissions,GCB,GD
-1977,Grenada,-4009.9999999999995,tC,LULUCF Net Emissions,GCB,GD
+1976,Grenada,-2040.0,tC,LULUCF Net Emissions,GCB,GD
+1977,Grenada,-4010.0,tC,LULUCF Net Emissions,GCB,GD
 1978,Grenada,-3850.0,tC,LULUCF Net Emissions,GCB,GD
 1979,Grenada,-9070.0,tC,LULUCF Net Emissions,GCB,GD
 1980,Grenada,-8740.0,tC,LULUCF Net Emissions,GCB,GD
@@ -4574,7 +4574,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1988,Guyana,-114640.0,tC,LULUCF Net Emissions,GCB,GY
 1989,Guyana,164160.0,tC,LULUCF Net Emissions,GCB,GY
 1990,Guyana,471340.0,tC,LULUCF Net Emissions,GCB,GY
-1991,Guyana,1020350.0000000001,tC,LULUCF Net Emissions,GCB,GY
+1991,Guyana,1020350.0,tC,LULUCF Net Emissions,GCB,GY
 1992,Guyana,2766630.0,tC,LULUCF Net Emissions,GCB,GY
 1993,Guyana,914720.0,tC,LULUCF Net Emissions,GCB,GY
 1994,Guyana,2490130.0,tC,LULUCF Net Emissions,GCB,GY
@@ -4592,7 +4592,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2006,Guyana,2607010.0,tC,LULUCF Net Emissions,GCB,GY
 2007,Guyana,1229470.0,tC,LULUCF Net Emissions,GCB,GY
 2008,Guyana,2081270.0,tC,LULUCF Net Emissions,GCB,GY
-2009,Guyana,2065980.0000000002,tC,LULUCF Net Emissions,GCB,GY
+2009,Guyana,2065980.0,tC,LULUCF Net Emissions,GCB,GY
 2010,Guyana,1859010.0,tC,LULUCF Net Emissions,GCB,GY
 2011,Guyana,1217440.0,tC,LULUCF Net Emissions,GCB,GY
 2012,Guyana,2389160.0,tC,LULUCF Net Emissions,GCB,GY
@@ -4625,7 +4625,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1975,Haiti,-12000.0,tC,LULUCF Net Emissions,GCB,HT
 1976,Haiti,-22820.0,tC,LULUCF Net Emissions,GCB,HT
 1977,Haiti,235650.0,tC,LULUCF Net Emissions,GCB,HT
-1978,Haiti,127539.99999999999,tC,LULUCF Net Emissions,GCB,HT
+1978,Haiti,127540.0,tC,LULUCF Net Emissions,GCB,HT
 1979,Haiti,311980.0,tC,LULUCF Net Emissions,GCB,HT
 1980,Haiti,132220.0,tC,LULUCF Net Emissions,GCB,HT
 1981,Haiti,135140.0,tC,LULUCF Net Emissions,GCB,HT
@@ -4691,7 +4691,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1977,Honduras,6526830.0,tC,LULUCF Net Emissions,GCB,HN
 1978,Honduras,4890580.0,tC,LULUCF Net Emissions,GCB,HN
 1979,Honduras,4099620.0,tC,LULUCF Net Emissions,GCB,HN
-1980,Honduras,4014980.0000000005,tC,LULUCF Net Emissions,GCB,HN
+1980,Honduras,4014980.000000001,tC,LULUCF Net Emissions,GCB,HN
 1981,Honduras,3992890.0,tC,LULUCF Net Emissions,GCB,HN
 1982,Honduras,3877030.0,tC,LULUCF Net Emissions,GCB,HN
 1983,Honduras,5518270.0,tC,LULUCF Net Emissions,GCB,HN
@@ -4724,12 +4724,12 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2010,Honduras,2946260.0,tC,LULUCF Net Emissions,GCB,HN
 2011,Honduras,3085810.0,tC,LULUCF Net Emissions,GCB,HN
 2012,Honduras,2162680.0,tC,LULUCF Net Emissions,GCB,HN
-2013,Honduras,2054399.9999999998,tC,LULUCF Net Emissions,GCB,HN
+2013,Honduras,2054400.0,tC,LULUCF Net Emissions,GCB,HN
 2014,Honduras,1742940.0,tC,LULUCF Net Emissions,GCB,HN
 2015,Honduras,3034700.0,tC,LULUCF Net Emissions,GCB,HN
 2016,Honduras,3949970.0,tC,LULUCF Net Emissions,GCB,HN
 2017,Honduras,3230790.0,tC,LULUCF Net Emissions,GCB,HN
-2018,Honduras,2020789.9999999998,tC,LULUCF Net Emissions,GCB,HN
+2018,Honduras,2020790.0,tC,LULUCF Net Emissions,GCB,HN
 2019,Honduras,2409470.0,tC,LULUCF Net Emissions,GCB,HN
 2020,Honduras,2633990.0,tC,LULUCF Net Emissions,GCB,HN
 2021,Honduras,2460770.0,tC,LULUCF Net Emissions,GCB,HN
@@ -4744,8 +4744,8 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1966,Hungary,-502610.0,tC,LULUCF Net Emissions,GCB,HU
 1967,Hungary,-419890.0,tC,LULUCF Net Emissions,GCB,HU
 1968,Hungary,-312620.0,tC,LULUCF Net Emissions,GCB,HU
-1969,Hungary,-511449.99999999994,tC,LULUCF Net Emissions,GCB,HU
-1970,Hungary,-514399.99999999994,tC,LULUCF Net Emissions,GCB,HU
+1969,Hungary,-511450.0,tC,LULUCF Net Emissions,GCB,HU
+1970,Hungary,-514400.0,tC,LULUCF Net Emissions,GCB,HU
 1971,Hungary,-459440.0,tC,LULUCF Net Emissions,GCB,HU
 1972,Hungary,-455010.0,tC,LULUCF Net Emissions,GCB,HU
 1973,Hungary,-549720.0,tC,LULUCF Net Emissions,GCB,HU
@@ -4770,7 +4770,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1992,Hungary,-1382300.0,tC,LULUCF Net Emissions,GCB,HU
 1993,Hungary,-1349760.0,tC,LULUCF Net Emissions,GCB,HU
 1994,Hungary,-925890.0,tC,LULUCF Net Emissions,GCB,HU
-1995,Hungary,-1040990.0000000001,tC,LULUCF Net Emissions,GCB,HU
+1995,Hungary,-1040990.0,tC,LULUCF Net Emissions,GCB,HU
 1996,Hungary,-973710.0,tC,LULUCF Net Emissions,GCB,HU
 1997,Hungary,-991410.0,tC,LULUCF Net Emissions,GCB,HU
 1998,Hungary,-864380.0,tC,LULUCF Net Emissions,GCB,HU
@@ -5010,7 +5010,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1976,Iran,725900.0,tC,LULUCF Net Emissions,GCB,IR
 1977,Iran,-1224180.0,tC,LULUCF Net Emissions,GCB,IR
 1978,Iran,5046180.0,tC,LULUCF Net Emissions,GCB,IR
-1979,Iran,-2007410.0000000002,tC,LULUCF Net Emissions,GCB,IR
+1979,Iran,-2007410.0,tC,LULUCF Net Emissions,GCB,IR
 1980,Iran,963890.0,tC,LULUCF Net Emissions,GCB,IR
 1981,Iran,2935640.0,tC,LULUCF Net Emissions,GCB,IR
 1982,Iran,2929820.0,tC,LULUCF Net Emissions,GCB,IR
@@ -5043,9 +5043,9 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2009,Iran,-3403530.0,tC,LULUCF Net Emissions,GCB,IR
 2010,Iran,-3827570.0,tC,LULUCF Net Emissions,GCB,IR
 2011,Iran,-3979020.0,tC,LULUCF Net Emissions,GCB,IR
-2012,Iran,-4082919.9999999995,tC,LULUCF Net Emissions,GCB,IR
+2012,Iran,-4082920.0,tC,LULUCF Net Emissions,GCB,IR
 2013,Iran,-3436110.0,tC,LULUCF Net Emissions,GCB,IR
-2014,Iran,-4059700.0000000005,tC,LULUCF Net Emissions,GCB,IR
+2014,Iran,-4059700.000000001,tC,LULUCF Net Emissions,GCB,IR
 2015,Iran,-3604780.0,tC,LULUCF Net Emissions,GCB,IR
 2016,Iran,-3640820.0,tC,LULUCF Net Emissions,GCB,IR
 2017,Iran,-3504600.0,tC,LULUCF Net Emissions,GCB,IR
@@ -5256,7 +5256,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1966,Italy,-3604420.0,tC,LULUCF Net Emissions,GCB,IT
 1967,Italy,-2852680.0,tC,LULUCF Net Emissions,GCB,IT
 1968,Italy,-3550170.0,tC,LULUCF Net Emissions,GCB,IT
-1969,Italy,-2031499.9999999998,tC,LULUCF Net Emissions,GCB,IT
+1969,Italy,-2031500.0,tC,LULUCF Net Emissions,GCB,IT
 1970,Italy,-7425700.0,tC,LULUCF Net Emissions,GCB,IT
 1971,Italy,-5658010.0,tC,LULUCF Net Emissions,GCB,IT
 1972,Italy,-6012090.0,tC,LULUCF Net Emissions,GCB,IT
@@ -5316,7 +5316,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1962,Jamaica,510780.0,tC,LULUCF Net Emissions,GCB,JM
 1963,Jamaica,380820.0,tC,LULUCF Net Emissions,GCB,JM
 1964,Jamaica,122210.0,tC,LULUCF Net Emissions,GCB,JM
-1965,Jamaica,125379.99999999999,tC,LULUCF Net Emissions,GCB,JM
+1965,Jamaica,125380.0,tC,LULUCF Net Emissions,GCB,JM
 1966,Jamaica,90620.0,tC,LULUCF Net Emissions,GCB,JM
 1967,Jamaica,28620.0,tC,LULUCF Net Emissions,GCB,JM
 1968,Jamaica,80510.0,tC,LULUCF Net Emissions,GCB,JM
@@ -5388,7 +5388,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Japan,5944090.0,tC,LULUCF Net Emissions,GCB,JP
 1971,Japan,4193370.0,tC,LULUCF Net Emissions,GCB,JP
 1972,Japan,2141510.0,tC,LULUCF Net Emissions,GCB,JP
-1973,Japan,2063969.9999999998,tC,LULUCF Net Emissions,GCB,JP
+1973,Japan,2063970.0,tC,LULUCF Net Emissions,GCB,JP
 1974,Japan,1892840.0,tC,LULUCF Net Emissions,GCB,JP
 1975,Japan,923980.0,tC,LULUCF Net Emissions,GCB,JP
 1976,Japan,-986330.0,tC,LULUCF Net Emissions,GCB,JP
@@ -5429,7 +5429,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2011,Japan,-5806960.0,tC,LULUCF Net Emissions,GCB,JP
 2012,Japan,-5437980.0,tC,LULUCF Net Emissions,GCB,JP
 2013,Japan,-4759760.0,tC,LULUCF Net Emissions,GCB,JP
-2014,Japan,-4012069.9999999995,tC,LULUCF Net Emissions,GCB,JP
+2014,Japan,-4012070.0,tC,LULUCF Net Emissions,GCB,JP
 2015,Japan,-3705600.0,tC,LULUCF Net Emissions,GCB,JP
 2016,Japan,-4111110.0,tC,LULUCF Net Emissions,GCB,JP
 2017,Japan,-3324160.0,tC,LULUCF Net Emissions,GCB,JP
@@ -5624,7 +5624,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2014,Kenya,3729970.0,tC,LULUCF Net Emissions,GCB,KE
 2015,Kenya,2968160.0,tC,LULUCF Net Emissions,GCB,KE
 2016,Kenya,2170180.0,tC,LULUCF Net Emissions,GCB,KE
-2017,Kenya,2001129.9999999998,tC,LULUCF Net Emissions,GCB,KE
+2017,Kenya,2001130.0,tC,LULUCF Net Emissions,GCB,KE
 2018,Kenya,1455460.0,tC,LULUCF Net Emissions,GCB,KE
 2019,Kenya,1255760.0,tC,LULUCF Net Emissions,GCB,KE
 2020,Kenya,647020.0,tC,LULUCF Net Emissions,GCB,KE
@@ -5772,7 +5772,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Kyrgyzstan,1330680.0,tC,LULUCF Net Emissions,GCB,KG
 1971,Kyrgyzstan,1154140.0,tC,LULUCF Net Emissions,GCB,KG
 1972,Kyrgyzstan,1001290.0,tC,LULUCF Net Emissions,GCB,KG
-1973,Kyrgyzstan,1020659.9999999999,tC,LULUCF Net Emissions,GCB,KG
+1973,Kyrgyzstan,1020660.0,tC,LULUCF Net Emissions,GCB,KG
 1974,Kyrgyzstan,913570.0,tC,LULUCF Net Emissions,GCB,KG
 1975,Kyrgyzstan,912120.0,tC,LULUCF Net Emissions,GCB,KG
 1976,Kyrgyzstan,873620.0,tC,LULUCF Net Emissions,GCB,KG
@@ -5828,7 +5828,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1962,Laos,4682110.0,tC,LULUCF Net Emissions,GCB,LA
 1963,Laos,4234660.0,tC,LULUCF Net Emissions,GCB,LA
 1964,Laos,3980950.0,tC,LULUCF Net Emissions,GCB,LA
-1965,Laos,4064250.0000000005,tC,LULUCF Net Emissions,GCB,LA
+1965,Laos,4064250.000000001,tC,LULUCF Net Emissions,GCB,LA
 1966,Laos,3910650.0,tC,LULUCF Net Emissions,GCB,LA
 1967,Laos,3930590.0,tC,LULUCF Net Emissions,GCB,LA
 1968,Laos,3685070.0,tC,LULUCF Net Emissions,GCB,LA
@@ -5883,7 +5883,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2017,Laos,7011260.0,tC,LULUCF Net Emissions,GCB,LA
 2018,Laos,5761680.0,tC,LULUCF Net Emissions,GCB,LA
 2019,Laos,4443050.0,tC,LULUCF Net Emissions,GCB,LA
-2020,Laos,4113959.9999999995,tC,LULUCF Net Emissions,GCB,LA
+2020,Laos,4113960.0,tC,LULUCF Net Emissions,GCB,LA
 2021,Laos,3347230.0,tC,LULUCF Net Emissions,GCB,LA
 2022,Laos,2536010.0,tC,LULUCF Net Emissions,GCB,LA
 2023,Laos,3450960.0,tC,LULUCF Net Emissions,GCB,LA
@@ -5920,7 +5920,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1990,Latvia,141670.0,tC,LULUCF Net Emissions,GCB,LV
 1991,Latvia,301300.0,tC,LULUCF Net Emissions,GCB,LV
 1992,Latvia,294110.0,tC,LULUCF Net Emissions,GCB,LV
-1993,Latvia,1033879.9999999999,tC,LULUCF Net Emissions,GCB,LV
+1993,Latvia,1033880.0,tC,LULUCF Net Emissions,GCB,LV
 1994,Latvia,-1309960.0,tC,LULUCF Net Emissions,GCB,LV
 1995,Latvia,-885720.0,tC,LULUCF Net Emissions,GCB,LV
 1996,Latvia,-1206660.0,tC,LULUCF Net Emissions,GCB,LV
@@ -5942,7 +5942,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2012,Latvia,544640.0,tC,LULUCF Net Emissions,GCB,LV
 2013,Latvia,357990.0,tC,LULUCF Net Emissions,GCB,LV
 2014,Latvia,559090.0,tC,LULUCF Net Emissions,GCB,LV
-2015,Latvia,1006119.9999999999,tC,LULUCF Net Emissions,GCB,LV
+2015,Latvia,1006120.0,tC,LULUCF Net Emissions,GCB,LV
 2016,Latvia,677440.0,tC,LULUCF Net Emissions,GCB,LV
 2017,Latvia,756570.0,tC,LULUCF Net Emissions,GCB,LV
 2018,Latvia,958540.0,tC,LULUCF Net Emissions,GCB,LV
@@ -5974,7 +5974,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1980,Lebanon,-44180.0,tC,LULUCF Net Emissions,GCB,LB
 1981,Lebanon,-32900.0,tC,LULUCF Net Emissions,GCB,LB
 1982,Lebanon,-35380.0,tC,LULUCF Net Emissions,GCB,LB
-1983,Lebanon,-31579.999999999996,tC,LULUCF Net Emissions,GCB,LB
+1983,Lebanon,-31580.0,tC,LULUCF Net Emissions,GCB,LB
 1984,Lebanon,-23620.0,tC,LULUCF Net Emissions,GCB,LB
 1985,Lebanon,-10180.0,tC,LULUCF Net Emissions,GCB,LB
 1986,Lebanon,-14170.0,tC,LULUCF Net Emissions,GCB,LB
@@ -6043,7 +6043,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1985,Lesotho,155270.0,tC,LULUCF Net Emissions,GCB,LS
 1986,Lesotho,418680.0,tC,LULUCF Net Emissions,GCB,LS
 1987,Lesotho,384250.0,tC,LULUCF Net Emissions,GCB,LS
-1988,Lesotho,253249.99999999997,tC,LULUCF Net Emissions,GCB,LS
+1988,Lesotho,253250.0,tC,LULUCF Net Emissions,GCB,LS
 1989,Lesotho,304820.0,tC,LULUCF Net Emissions,GCB,LS
 1990,Lesotho,201480.0,tC,LULUCF Net Emissions,GCB,LS
 1991,Lesotho,274510.0,tC,LULUCF Net Emissions,GCB,LS
@@ -6055,7 +6055,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1997,Lesotho,150590.0,tC,LULUCF Net Emissions,GCB,LS
 1998,Lesotho,169670.0,tC,LULUCF Net Emissions,GCB,LS
 1999,Lesotho,229930.0,tC,LULUCF Net Emissions,GCB,LS
-2000,Lesotho,257079.99999999997,tC,LULUCF Net Emissions,GCB,LS
+2000,Lesotho,257080.0,tC,LULUCF Net Emissions,GCB,LS
 2001,Lesotho,223120.0,tC,LULUCF Net Emissions,GCB,LS
 2002,Lesotho,275420.0,tC,LULUCF Net Emissions,GCB,LS
 2003,Lesotho,419150.0,tC,LULUCF Net Emissions,GCB,LS
@@ -6079,7 +6079,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2021,Lesotho,114620.0,tC,LULUCF Net Emissions,GCB,LS
 2022,Lesotho,82930.0,tC,LULUCF Net Emissions,GCB,LS
 2023,Lesotho,67170.0,tC,LULUCF Net Emissions,GCB,LS
-1960,Liberia,1015980.0000000001,tC,LULUCF Net Emissions,GCB,LR
+1960,Liberia,1015980.0,tC,LULUCF Net Emissions,GCB,LR
 1961,Liberia,903180.0,tC,LULUCF Net Emissions,GCB,LR
 1962,Liberia,901430.0,tC,LULUCF Net Emissions,GCB,LR
 1963,Liberia,780390.0,tC,LULUCF Net Emissions,GCB,LR
@@ -6151,7 +6151,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1965,Libya,-184150.0,tC,LULUCF Net Emissions,GCB,LY
 1966,Libya,-228830.0,tC,LULUCF Net Emissions,GCB,LY
 1967,Libya,-225850.0,tC,LULUCF Net Emissions,GCB,LY
-1968,Libya,-258359.99999999997,tC,LULUCF Net Emissions,GCB,LY
+1968,Libya,-258360.0,tC,LULUCF Net Emissions,GCB,LY
 1969,Libya,-276690.0,tC,LULUCF Net Emissions,GCB,LY
 1970,Libya,-270060.0,tC,LULUCF Net Emissions,GCB,LY
 1971,Libya,-298670.0,tC,LULUCF Net Emissions,GCB,LY
@@ -6167,7 +6167,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1981,Libya,-354940.0,tC,LULUCF Net Emissions,GCB,LY
 1982,Libya,-310800.0,tC,LULUCF Net Emissions,GCB,LY
 1983,Libya,-284810.0,tC,LULUCF Net Emissions,GCB,LY
-1984,Libya,-252589.99999999997,tC,LULUCF Net Emissions,GCB,LY
+1984,Libya,-252590.0,tC,LULUCF Net Emissions,GCB,LY
 1985,Libya,-243680.0,tC,LULUCF Net Emissions,GCB,LY
 1986,Libya,-244520.0,tC,LULUCF Net Emissions,GCB,LY
 1987,Libya,-256660.0,tC,LULUCF Net Emissions,GCB,LY
@@ -6226,7 +6226,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1976,Liechtenstein,-1060.0,tC,LULUCF Net Emissions,GCB,LI
 1977,Liechtenstein,-1000.0,tC,LULUCF Net Emissions,GCB,LI
 1978,Liechtenstein,-990.0,tC,LULUCF Net Emissions,GCB,LI
-1979,Liechtenstein,-1020.0000000000001,tC,LULUCF Net Emissions,GCB,LI
+1979,Liechtenstein,-1020.0,tC,LULUCF Net Emissions,GCB,LI
 1980,Liechtenstein,-1270.0,tC,LULUCF Net Emissions,GCB,LI
 1981,Liechtenstein,-1210.0,tC,LULUCF Net Emissions,GCB,LI
 1982,Liechtenstein,-1220.0,tC,LULUCF Net Emissions,GCB,LI
@@ -6253,9 +6253,9 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2003,Liechtenstein,-3210.0,tC,LULUCF Net Emissions,GCB,LI
 2004,Liechtenstein,-3320.0,tC,LULUCF Net Emissions,GCB,LI
 2005,Liechtenstein,-3610.0,tC,LULUCF Net Emissions,GCB,LI
-2006,Liechtenstein,-3930.0000000000005,tC,LULUCF Net Emissions,GCB,LI
+2006,Liechtenstein,-3930.000000000001,tC,LULUCF Net Emissions,GCB,LI
 2007,Liechtenstein,-3740.0,tC,LULUCF Net Emissions,GCB,LI
-2008,Liechtenstein,-3969.9999999999995,tC,LULUCF Net Emissions,GCB,LI
+2008,Liechtenstein,-3970.0,tC,LULUCF Net Emissions,GCB,LI
 2009,Liechtenstein,-4240.0,tC,LULUCF Net Emissions,GCB,LI
 2010,Liechtenstein,-4570.0,tC,LULUCF Net Emissions,GCB,LI
 2011,Liechtenstein,-4940.0,tC,LULUCF Net Emissions,GCB,LI
@@ -6463,7 +6463,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2021,Madagascar,4877010.0,tC,LULUCF Net Emissions,GCB,MG
 2022,Madagascar,5131890.0,tC,LULUCF Net Emissions,GCB,MG
 2023,Madagascar,5048970.0,tC,LULUCF Net Emissions,GCB,MG
-1960,Malawi,4075580.0000000005,tC,LULUCF Net Emissions,GCB,MW
+1960,Malawi,4075580.000000001,tC,LULUCF Net Emissions,GCB,MW
 1961,Malawi,5042850.0,tC,LULUCF Net Emissions,GCB,MW
 1962,Malawi,5256020.0,tC,LULUCF Net Emissions,GCB,MW
 1963,Malawi,5384220.0,tC,LULUCF Net Emissions,GCB,MW
@@ -6472,7 +6472,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1966,Malawi,5532320.0,tC,LULUCF Net Emissions,GCB,MW
 1967,Malawi,5655730.0,tC,LULUCF Net Emissions,GCB,MW
 1968,Malawi,5094920.0,tC,LULUCF Net Emissions,GCB,MW
-1969,Malawi,4059650.0000000005,tC,LULUCF Net Emissions,GCB,MW
+1969,Malawi,4059650.000000001,tC,LULUCF Net Emissions,GCB,MW
 1970,Malawi,5216430.0,tC,LULUCF Net Emissions,GCB,MW
 1971,Malawi,5030240.0,tC,LULUCF Net Emissions,GCB,MW
 1972,Malawi,4631750.0,tC,LULUCF Net Emissions,GCB,MW
@@ -6512,7 +6512,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2006,Malawi,4884060.0,tC,LULUCF Net Emissions,GCB,MW
 2007,Malawi,5353190.0,tC,LULUCF Net Emissions,GCB,MW
 2008,Malawi,5216110.0,tC,LULUCF Net Emissions,GCB,MW
-2009,Malawi,4099910.0000000005,tC,LULUCF Net Emissions,GCB,MW
+2009,Malawi,4099910.000000001,tC,LULUCF Net Emissions,GCB,MW
 2010,Malawi,3856610.0,tC,LULUCF Net Emissions,GCB,MW
 2011,Malawi,3409860.0,tC,LULUCF Net Emissions,GCB,MW
 2012,Malawi,3392340.0,tC,LULUCF Net Emissions,GCB,MW
@@ -7032,7 +7032,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2014,Mexico,6576920.0,tC,LULUCF Net Emissions,GCB,MX
 2015,Mexico,5300590.0,tC,LULUCF Net Emissions,GCB,MX
 2016,Mexico,-1911190.0,tC,LULUCF Net Emissions,GCB,MX
-2017,Mexico,-1017570.0000000001,tC,LULUCF Net Emissions,GCB,MX
+2017,Mexico,-1017570.0,tC,LULUCF Net Emissions,GCB,MX
 2018,Mexico,-2732560.0,tC,LULUCF Net Emissions,GCB,MX
 2019,Mexico,8647030.0,tC,LULUCF Net Emissions,GCB,MX
 2020,Mexico,3517130.0,tC,LULUCF Net Emissions,GCB,MX
@@ -7125,7 +7125,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1979,Moldova,127270.0,tC,LULUCF Net Emissions,GCB,MD
 1980,Moldova,141550.0,tC,LULUCF Net Emissions,GCB,MD
 1981,Moldova,143180.0,tC,LULUCF Net Emissions,GCB,MD
-1982,Moldova,127650.00000000001,tC,LULUCF Net Emissions,GCB,MD
+1982,Moldova,127650.0,tC,LULUCF Net Emissions,GCB,MD
 1983,Moldova,135380.0,tC,LULUCF Net Emissions,GCB,MD
 1984,Moldova,139710.0,tC,LULUCF Net Emissions,GCB,MD
 1985,Moldova,140290.0,tC,LULUCF Net Emissions,GCB,MD
@@ -7148,7 +7148,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2002,Moldova,-198260.0,tC,LULUCF Net Emissions,GCB,MD
 2003,Moldova,-250000.0,tC,LULUCF Net Emissions,GCB,MD
 2004,Moldova,-271400.0,tC,LULUCF Net Emissions,GCB,MD
-2005,Moldova,-254699.99999999997,tC,LULUCF Net Emissions,GCB,MD
+2005,Moldova,-254700.0,tC,LULUCF Net Emissions,GCB,MD
 2006,Moldova,-258370.0,tC,LULUCF Net Emissions,GCB,MD
 2007,Moldova,-247760.0,tC,LULUCF Net Emissions,GCB,MD
 2008,Moldova,-271630.0,tC,LULUCF Net Emissions,GCB,MD
@@ -7237,7 +7237,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1963,Montenegro,345900.0,tC,LULUCF Net Emissions,GCB,ME
 1964,Montenegro,310180.0,tC,LULUCF Net Emissions,GCB,ME
 1965,Montenegro,279540.0,tC,LULUCF Net Emissions,GCB,ME
-1966,Montenegro,252749.99999999997,tC,LULUCF Net Emissions,GCB,ME
+1966,Montenegro,252750.0,tC,LULUCF Net Emissions,GCB,ME
 1967,Montenegro,201470.0,tC,LULUCF Net Emissions,GCB,ME
 1968,Montenegro,161090.0,tC,LULUCF Net Emissions,GCB,ME
 1969,Montenegro,117800.0,tC,LULUCF Net Emissions,GCB,ME
@@ -7308,7 +7308,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Morocco,2579540.0,tC,LULUCF Net Emissions,GCB,MA
 1971,Morocco,2429920.0,tC,LULUCF Net Emissions,GCB,MA
 1972,Morocco,2437020.0,tC,LULUCF Net Emissions,GCB,MA
-1973,Morocco,2071480.0000000002,tC,LULUCF Net Emissions,GCB,MA
+1973,Morocco,2071480.0,tC,LULUCF Net Emissions,GCB,MA
 1974,Morocco,2285830.0,tC,LULUCF Net Emissions,GCB,MA
 1975,Morocco,2236060.0,tC,LULUCF Net Emissions,GCB,MA
 1976,Morocco,3190490.0,tC,LULUCF Net Emissions,GCB,MA
@@ -7354,7 +7354,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2016,Morocco,3031640.0,tC,LULUCF Net Emissions,GCB,MA
 2017,Morocco,452350.0,tC,LULUCF Net Emissions,GCB,MA
 2018,Morocco,-1771600.0,tC,LULUCF Net Emissions,GCB,MA
-2019,Morocco,2052239.9999999998,tC,LULUCF Net Emissions,GCB,MA
+2019,Morocco,2052240.0,tC,LULUCF Net Emissions,GCB,MA
 2020,Morocco,53390.0,tC,LULUCF Net Emissions,GCB,MA
 2021,Morocco,-700120.0,tC,LULUCF Net Emissions,GCB,MA
 2022,Morocco,-1294440.0,tC,LULUCF Net Emissions,GCB,MA
@@ -7466,7 +7466,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2000,Myanmar,33640000.0,tC,LULUCF Net Emissions,GCB,MM
 2001,Myanmar,31496030.0,tC,LULUCF Net Emissions,GCB,MM
 2002,Myanmar,31590390.0,tC,LULUCF Net Emissions,GCB,MM
-2003,Myanmar,32219749.999999996,tC,LULUCF Net Emissions,GCB,MM
+2003,Myanmar,32219750.0,tC,LULUCF Net Emissions,GCB,MM
 2004,Myanmar,34674070.0,tC,LULUCF Net Emissions,GCB,MM
 2005,Myanmar,39260860.0,tC,LULUCF Net Emissions,GCB,MM
 2006,Myanmar,44787670.0,tC,LULUCF Net Emissions,GCB,MM
@@ -7487,70 +7487,70 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2021,Myanmar,23638240.0,tC,LULUCF Net Emissions,GCB,MM
 2022,Myanmar,22710290.0,tC,LULUCF Net Emissions,GCB,MM
 2023,Myanmar,23761210.0,tC,LULUCF Net Emissions,GCB,MM
-1960,Namibia,701300.0,tC,LULUCF Net Emissions,GCB,
-1961,Namibia,400220.0,tC,LULUCF Net Emissions,GCB,
-1962,Namibia,289360.0,tC,LULUCF Net Emissions,GCB,
-1963,Namibia,255210.0,tC,LULUCF Net Emissions,GCB,
-1964,Namibia,219200.0,tC,LULUCF Net Emissions,GCB,
-1965,Namibia,202230.0,tC,LULUCF Net Emissions,GCB,
-1966,Namibia,218450.0,tC,LULUCF Net Emissions,GCB,
-1967,Namibia,204330.0,tC,LULUCF Net Emissions,GCB,
-1968,Namibia,192090.0,tC,LULUCF Net Emissions,GCB,
-1969,Namibia,200870.0,tC,LULUCF Net Emissions,GCB,
-1970,Namibia,204760.0,tC,LULUCF Net Emissions,GCB,
-1971,Namibia,182730.0,tC,LULUCF Net Emissions,GCB,
-1972,Namibia,170640.0,tC,LULUCF Net Emissions,GCB,
-1973,Namibia,160980.0,tC,LULUCF Net Emissions,GCB,
-1974,Namibia,157430.0,tC,LULUCF Net Emissions,GCB,
-1975,Namibia,147820.0,tC,LULUCF Net Emissions,GCB,
-1976,Namibia,140200.0,tC,LULUCF Net Emissions,GCB,
-1977,Namibia,143650.0,tC,LULUCF Net Emissions,GCB,
-1978,Namibia,128539.99999999999,tC,LULUCF Net Emissions,GCB,
-1979,Namibia,136600.0,tC,LULUCF Net Emissions,GCB,
-1980,Namibia,130370.00000000001,tC,LULUCF Net Emissions,GCB,
-1981,Namibia,126349.99999999999,tC,LULUCF Net Emissions,GCB,
-1982,Namibia,175250.0,tC,LULUCF Net Emissions,GCB,
-1983,Namibia,156810.0,tC,LULUCF Net Emissions,GCB,
-1984,Namibia,163660.0,tC,LULUCF Net Emissions,GCB,
-1985,Namibia,180240.0,tC,LULUCF Net Emissions,GCB,
-1986,Namibia,208550.0,tC,LULUCF Net Emissions,GCB,
-1987,Namibia,248940.0,tC,LULUCF Net Emissions,GCB,
-1988,Namibia,264460.0,tC,LULUCF Net Emissions,GCB,
-1989,Namibia,317740.0,tC,LULUCF Net Emissions,GCB,
-1990,Namibia,384640.0,tC,LULUCF Net Emissions,GCB,
-1991,Namibia,529890.0,tC,LULUCF Net Emissions,GCB,
-1992,Namibia,979470.0,tC,LULUCF Net Emissions,GCB,
-1993,Namibia,1459010.0,tC,LULUCF Net Emissions,GCB,
-1994,Namibia,1703220.0,tC,LULUCF Net Emissions,GCB,
-1995,Namibia,1092150.0,tC,LULUCF Net Emissions,GCB,
-1996,Namibia,1045080.0,tC,LULUCF Net Emissions,GCB,
-1997,Namibia,1033369.9999999999,tC,LULUCF Net Emissions,GCB,
-1998,Namibia,1014240.0,tC,LULUCF Net Emissions,GCB,
-1999,Namibia,1014680.0,tC,LULUCF Net Emissions,GCB,
-2000,Namibia,1026700.0,tC,LULUCF Net Emissions,GCB,
-2001,Namibia,1044790.0000000001,tC,LULUCF Net Emissions,GCB,
-2002,Namibia,1061440.0,tC,LULUCF Net Emissions,GCB,
-2003,Namibia,1048600.0,tC,LULUCF Net Emissions,GCB,
-2004,Namibia,1040999.9999999999,tC,LULUCF Net Emissions,GCB,
-2005,Namibia,1029439.9999999999,tC,LULUCF Net Emissions,GCB,
-2006,Namibia,1028450.0000000001,tC,LULUCF Net Emissions,GCB,
-2007,Namibia,1059920.0,tC,LULUCF Net Emissions,GCB,
-2008,Namibia,1176980.0,tC,LULUCF Net Emissions,GCB,
-2009,Namibia,1210830.0,tC,LULUCF Net Emissions,GCB,
-2010,Namibia,1236200.0,tC,LULUCF Net Emissions,GCB,
-2011,Namibia,1206810.0,tC,LULUCF Net Emissions,GCB,
-2012,Namibia,1214760.0,tC,LULUCF Net Emissions,GCB,
-2013,Namibia,1220090.0,tC,LULUCF Net Emissions,GCB,
-2014,Namibia,1262740.0,tC,LULUCF Net Emissions,GCB,
-2015,Namibia,1273120.0,tC,LULUCF Net Emissions,GCB,
-2016,Namibia,1274320.0,tC,LULUCF Net Emissions,GCB,
-2017,Namibia,1277910.0,tC,LULUCF Net Emissions,GCB,
-2018,Namibia,1291660.0,tC,LULUCF Net Emissions,GCB,
-2019,Namibia,1350660.0,tC,LULUCF Net Emissions,GCB,
-2020,Namibia,1415800.0,tC,LULUCF Net Emissions,GCB,
-2021,Namibia,1460450.0,tC,LULUCF Net Emissions,GCB,
-2022,Namibia,1532150.0,tC,LULUCF Net Emissions,GCB,
-2023,Namibia,1598420.0,tC,LULUCF Net Emissions,GCB,
+1960,Namibia,701300.0,tC,LULUCF Net Emissions,GCB,NAM
+1961,Namibia,400220.0,tC,LULUCF Net Emissions,GCB,NAM
+1962,Namibia,289360.0,tC,LULUCF Net Emissions,GCB,NAM
+1963,Namibia,255210.0,tC,LULUCF Net Emissions,GCB,NAM
+1964,Namibia,219200.0,tC,LULUCF Net Emissions,GCB,NAM
+1965,Namibia,202230.0,tC,LULUCF Net Emissions,GCB,NAM
+1966,Namibia,218450.0,tC,LULUCF Net Emissions,GCB,NAM
+1967,Namibia,204330.0,tC,LULUCF Net Emissions,GCB,NAM
+1968,Namibia,192090.0,tC,LULUCF Net Emissions,GCB,NAM
+1969,Namibia,200870.0,tC,LULUCF Net Emissions,GCB,NAM
+1970,Namibia,204760.0,tC,LULUCF Net Emissions,GCB,NAM
+1971,Namibia,182730.0,tC,LULUCF Net Emissions,GCB,NAM
+1972,Namibia,170640.0,tC,LULUCF Net Emissions,GCB,NAM
+1973,Namibia,160980.0,tC,LULUCF Net Emissions,GCB,NAM
+1974,Namibia,157430.0,tC,LULUCF Net Emissions,GCB,NAM
+1975,Namibia,147820.0,tC,LULUCF Net Emissions,GCB,NAM
+1976,Namibia,140200.0,tC,LULUCF Net Emissions,GCB,NAM
+1977,Namibia,143650.0,tC,LULUCF Net Emissions,GCB,NAM
+1978,Namibia,128540.0,tC,LULUCF Net Emissions,GCB,NAM
+1979,Namibia,136600.0,tC,LULUCF Net Emissions,GCB,NAM
+1980,Namibia,130370.0,tC,LULUCF Net Emissions,GCB,NAM
+1981,Namibia,126350.0,tC,LULUCF Net Emissions,GCB,NAM
+1982,Namibia,175250.0,tC,LULUCF Net Emissions,GCB,NAM
+1983,Namibia,156810.0,tC,LULUCF Net Emissions,GCB,NAM
+1984,Namibia,163660.0,tC,LULUCF Net Emissions,GCB,NAM
+1985,Namibia,180240.0,tC,LULUCF Net Emissions,GCB,NAM
+1986,Namibia,208550.0,tC,LULUCF Net Emissions,GCB,NAM
+1987,Namibia,248940.0,tC,LULUCF Net Emissions,GCB,NAM
+1988,Namibia,264460.0,tC,LULUCF Net Emissions,GCB,NAM
+1989,Namibia,317740.0,tC,LULUCF Net Emissions,GCB,NAM
+1990,Namibia,384640.0,tC,LULUCF Net Emissions,GCB,NAM
+1991,Namibia,529890.0,tC,LULUCF Net Emissions,GCB,NAM
+1992,Namibia,979470.0,tC,LULUCF Net Emissions,GCB,NAM
+1993,Namibia,1459010.0,tC,LULUCF Net Emissions,GCB,NAM
+1994,Namibia,1703220.0,tC,LULUCF Net Emissions,GCB,NAM
+1995,Namibia,1092150.0,tC,LULUCF Net Emissions,GCB,NAM
+1996,Namibia,1045080.0,tC,LULUCF Net Emissions,GCB,NAM
+1997,Namibia,1033370.0,tC,LULUCF Net Emissions,GCB,NAM
+1998,Namibia,1014240.0,tC,LULUCF Net Emissions,GCB,NAM
+1999,Namibia,1014680.0,tC,LULUCF Net Emissions,GCB,NAM
+2000,Namibia,1026700.0,tC,LULUCF Net Emissions,GCB,NAM
+2001,Namibia,1044790.0,tC,LULUCF Net Emissions,GCB,NAM
+2002,Namibia,1061440.0,tC,LULUCF Net Emissions,GCB,NAM
+2003,Namibia,1048600.0,tC,LULUCF Net Emissions,GCB,NAM
+2004,Namibia,1041000.0,tC,LULUCF Net Emissions,GCB,NAM
+2005,Namibia,1029440.0,tC,LULUCF Net Emissions,GCB,NAM
+2006,Namibia,1028450.0,tC,LULUCF Net Emissions,GCB,NAM
+2007,Namibia,1059920.0,tC,LULUCF Net Emissions,GCB,NAM
+2008,Namibia,1176980.0,tC,LULUCF Net Emissions,GCB,NAM
+2009,Namibia,1210830.0,tC,LULUCF Net Emissions,GCB,NAM
+2010,Namibia,1236200.0,tC,LULUCF Net Emissions,GCB,NAM
+2011,Namibia,1206810.0,tC,LULUCF Net Emissions,GCB,NAM
+2012,Namibia,1214760.0,tC,LULUCF Net Emissions,GCB,NAM
+2013,Namibia,1220090.0,tC,LULUCF Net Emissions,GCB,NAM
+2014,Namibia,1262740.0,tC,LULUCF Net Emissions,GCB,NAM
+2015,Namibia,1273120.0,tC,LULUCF Net Emissions,GCB,NAM
+2016,Namibia,1274320.0,tC,LULUCF Net Emissions,GCB,NAM
+2017,Namibia,1277910.0,tC,LULUCF Net Emissions,GCB,NAM
+2018,Namibia,1291660.0,tC,LULUCF Net Emissions,GCB,NAM
+2019,Namibia,1350660.0,tC,LULUCF Net Emissions,GCB,NAM
+2020,Namibia,1415800.0,tC,LULUCF Net Emissions,GCB,NAM
+2021,Namibia,1460450.0,tC,LULUCF Net Emissions,GCB,NAM
+2022,Namibia,1532150.0,tC,LULUCF Net Emissions,GCB,NAM
+2023,Namibia,1598420.0,tC,LULUCF Net Emissions,GCB,NAM
 1960,Nauru,0.0,tC,LULUCF Net Emissions,GCB,NR
 1961,Nauru,0.0,tC,LULUCF Net Emissions,GCB,NR
 1962,Nauru,0.0,tC,LULUCF Net Emissions,GCB,NR
@@ -7621,7 +7621,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1963,Nepal,3829100.0,tC,LULUCF Net Emissions,GCB,NP
 1964,Nepal,3775070.0,tC,LULUCF Net Emissions,GCB,NP
 1965,Nepal,3770210.0,tC,LULUCF Net Emissions,GCB,NP
-1966,Nepal,4075490.0000000005,tC,LULUCF Net Emissions,GCB,NP
+1966,Nepal,4075490.000000001,tC,LULUCF Net Emissions,GCB,NP
 1967,Nepal,3918900.0,tC,LULUCF Net Emissions,GCB,NP
 1968,Nepal,4202880.0,tC,LULUCF Net Emissions,GCB,NP
 1969,Nepal,7451800.0,tC,LULUCF Net Emissions,GCB,NP
@@ -7676,7 +7676,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2018,Nepal,1983990.0,tC,LULUCF Net Emissions,GCB,NP
 2019,Nepal,1936010.0,tC,LULUCF Net Emissions,GCB,NP
 2020,Nepal,2150200.0,tC,LULUCF Net Emissions,GCB,NP
-2021,Nepal,2003070.0000000002,tC,LULUCF Net Emissions,GCB,NP
+2021,Nepal,2003070.0,tC,LULUCF Net Emissions,GCB,NP
 2022,Nepal,1909480.0,tC,LULUCF Net Emissions,GCB,NP
 2023,Nepal,1910570.0,tC,LULUCF Net Emissions,GCB,NP
 1960,Netherlands,842560.0,tC,LULUCF Net Emissions,GCB,NL
@@ -7880,7 +7880,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1966,Niger,3704170.0,tC,LULUCF Net Emissions,GCB,NE
 1967,Niger,7349590.0,tC,LULUCF Net Emissions,GCB,NE
 1968,Niger,5478340.0,tC,LULUCF Net Emissions,GCB,NE
-1969,Niger,2049710.0000000002,tC,LULUCF Net Emissions,GCB,NE
+1969,Niger,2049710.0,tC,LULUCF Net Emissions,GCB,NE
 1970,Niger,1653410.0,tC,LULUCF Net Emissions,GCB,NE
 1971,Niger,1173060.0,tC,LULUCF Net Emissions,GCB,NE
 1972,Niger,51010.0,tC,LULUCF Net Emissions,GCB,NE
@@ -7917,11 +7917,11 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2003,Niger,2322910.0,tC,LULUCF Net Emissions,GCB,NE
 2004,Niger,1520590.0,tC,LULUCF Net Emissions,GCB,NE
 2005,Niger,1483340.0,tC,LULUCF Net Emissions,GCB,NE
-2006,Niger,4104250.0000000005,tC,LULUCF Net Emissions,GCB,NE
-2007,Niger,2078949.9999999998,tC,LULUCF Net Emissions,GCB,NE
+2006,Niger,4104250.000000001,tC,LULUCF Net Emissions,GCB,NE
+2007,Niger,2078950.0,tC,LULUCF Net Emissions,GCB,NE
 2008,Niger,1344010.0,tC,LULUCF Net Emissions,GCB,NE
-2009,Niger,2076830.0000000002,tC,LULUCF Net Emissions,GCB,NE
-2010,Niger,4121400.0000000005,tC,LULUCF Net Emissions,GCB,NE
+2009,Niger,2076830.0,tC,LULUCF Net Emissions,GCB,NE
+2010,Niger,4121400.000000001,tC,LULUCF Net Emissions,GCB,NE
 2011,Niger,6973970.0,tC,LULUCF Net Emissions,GCB,NE
 2012,Niger,9015260.0,tC,LULUCF Net Emissions,GCB,NE
 2013,Niger,6406810.0,tC,LULUCF Net Emissions,GCB,NE
@@ -7930,7 +7930,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2016,Niger,7576560.0,tC,LULUCF Net Emissions,GCB,NE
 2017,Niger,5764190.0,tC,LULUCF Net Emissions,GCB,NE
 2018,Niger,5008320.0,tC,LULUCF Net Emissions,GCB,NE
-2019,Niger,4109200.0000000005,tC,LULUCF Net Emissions,GCB,NE
+2019,Niger,4109200.000000001,tC,LULUCF Net Emissions,GCB,NE
 2020,Niger,3550840.0,tC,LULUCF Net Emissions,GCB,NE
 2021,Niger,3555570.0,tC,LULUCF Net Emissions,GCB,NE
 2022,Niger,3561450.0,tC,LULUCF Net Emissions,GCB,NE
@@ -7941,7 +7941,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1963,Nigeria,44070960.0,tC,LULUCF Net Emissions,GCB,NG
 1964,Nigeria,40688940.0,tC,LULUCF Net Emissions,GCB,NG
 1965,Nigeria,38750130.0,tC,LULUCF Net Emissions,GCB,NG
-1966,Nigeria,33377519.999999996,tC,LULUCF Net Emissions,GCB,NG
+1966,Nigeria,33377520.0,tC,LULUCF Net Emissions,GCB,NG
 1967,Nigeria,38794830.0,tC,LULUCF Net Emissions,GCB,NG
 1968,Nigeria,35804720.0,tC,LULUCF Net Emissions,GCB,NG
 1969,Nigeria,34910160.0,tC,LULUCF Net Emissions,GCB,NG
@@ -8029,7 +8029,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1987,Niue,970.0,tC,LULUCF Net Emissions,GCB,NU
 1988,Niue,1580.0,tC,LULUCF Net Emissions,GCB,NU
 1989,Niue,1960.0,tC,LULUCF Net Emissions,GCB,NU
-1990,Niue,2040.0000000000002,tC,LULUCF Net Emissions,GCB,NU
+1990,Niue,2040.0,tC,LULUCF Net Emissions,GCB,NU
 1991,Niue,1970.0,tC,LULUCF Net Emissions,GCB,NU
 1992,Niue,1830.0,tC,LULUCF Net Emissions,GCB,NU
 1993,Niue,1380.0,tC,LULUCF Net Emissions,GCB,NU
@@ -8101,13 +8101,13 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1995,North Korea,-1710540.0,tC,LULUCF Net Emissions,GCB,KP
 1996,North Korea,-1407920.0,tC,LULUCF Net Emissions,GCB,KP
 1997,North Korea,-1226420.0,tC,LULUCF Net Emissions,GCB,KP
-1998,North Korea,-1001910.0000000001,tC,LULUCF Net Emissions,GCB,KP
+1998,North Korea,-1001910.0,tC,LULUCF Net Emissions,GCB,KP
 1999,North Korea,-921930.0,tC,LULUCF Net Emissions,GCB,KP
 2000,North Korea,-949750.0,tC,LULUCF Net Emissions,GCB,KP
 2001,North Korea,-996060.0,tC,LULUCF Net Emissions,GCB,KP
 2002,North Korea,-898760.0,tC,LULUCF Net Emissions,GCB,KP
 2003,North Korea,-696130.0,tC,LULUCF Net Emissions,GCB,KP
-2004,North Korea,126090.00000000001,tC,LULUCF Net Emissions,GCB,KP
+2004,North Korea,126090.0,tC,LULUCF Net Emissions,GCB,KP
 2005,North Korea,-393820.0,tC,LULUCF Net Emissions,GCB,KP
 2006,North Korea,-157650.0,tC,LULUCF Net Emissions,GCB,KP
 2007,North Korea,649090.0,tC,LULUCF Net Emissions,GCB,KP
@@ -8129,11 +8129,11 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2023,North Korea,-235390.0,tC,LULUCF Net Emissions,GCB,KP
 1960,North Macedonia,354430.0,tC,LULUCF Net Emissions,GCB,MK
 1961,North Macedonia,295730.0,tC,LULUCF Net Emissions,GCB,MK
-1962,North Macedonia,256419.99999999997,tC,LULUCF Net Emissions,GCB,MK
+1962,North Macedonia,256420.0,tC,LULUCF Net Emissions,GCB,MK
 1963,North Macedonia,205390.0,tC,LULUCF Net Emissions,GCB,MK
 1964,North Macedonia,170280.0,tC,LULUCF Net Emissions,GCB,MK
 1965,North Macedonia,147520.0,tC,LULUCF Net Emissions,GCB,MK
-1966,North Macedonia,130869.99999999999,tC,LULUCF Net Emissions,GCB,MK
+1966,North Macedonia,130870.0,tC,LULUCF Net Emissions,GCB,MK
 1967,North Macedonia,108600.0,tC,LULUCF Net Emissions,GCB,MK
 1968,North Macedonia,99450.0,tC,LULUCF Net Emissions,GCB,MK
 1969,North Macedonia,74210.0,tC,LULUCF Net Emissions,GCB,MK
@@ -8180,7 +8180,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2010,North Macedonia,-76610.0,tC,LULUCF Net Emissions,GCB,MK
 2011,North Macedonia,782290.0,tC,LULUCF Net Emissions,GCB,MK
 2012,North Macedonia,296910.0,tC,LULUCF Net Emissions,GCB,MK
-2013,North Macedonia,128310.00000000001,tC,LULUCF Net Emissions,GCB,MK
+2013,North Macedonia,128310.0,tC,LULUCF Net Emissions,GCB,MK
 2014,North Macedonia,90750.0,tC,LULUCF Net Emissions,GCB,MK
 2015,North Macedonia,61140.0,tC,LULUCF Net Emissions,GCB,MK
 2016,North Macedonia,-1650.0,tC,LULUCF Net Emissions,GCB,MK
@@ -8192,11 +8192,11 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2022,North Macedonia,-143070.0,tC,LULUCF Net Emissions,GCB,MK
 2023,North Macedonia,-167690.0,tC,LULUCF Net Emissions,GCB,MK
 1960,Norway,-259560.0,tC,LULUCF Net Emissions,GCB,NO
-1961,Norway,-2087750.0000000002,tC,LULUCF Net Emissions,GCB,NO
+1961,Norway,-2087750.0,tC,LULUCF Net Emissions,GCB,NO
 1962,Norway,-2225700.0,tC,LULUCF Net Emissions,GCB,NO
 1963,Norway,-2225500.0,tC,LULUCF Net Emissions,GCB,NO
 1964,Norway,-2186540.0,tC,LULUCF Net Emissions,GCB,NO
-1965,Norway,-2050530.0000000002,tC,LULUCF Net Emissions,GCB,NO
+1965,Norway,-2050530.0,tC,LULUCF Net Emissions,GCB,NO
 1966,Norway,-2003880.0,tC,LULUCF Net Emissions,GCB,NO
 1967,Norway,-2021430.0,tC,LULUCF Net Emissions,GCB,NO
 1968,Norway,-1943880.0,tC,LULUCF Net Emissions,GCB,NO
@@ -8217,7 +8217,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1983,Norway,-358680.0,tC,LULUCF Net Emissions,GCB,NO
 1984,Norway,-295490.0,tC,LULUCF Net Emissions,GCB,NO
 1985,Norway,-100690.0,tC,LULUCF Net Emissions,GCB,NO
-1986,Norway,-130679.99999999999,tC,LULUCF Net Emissions,GCB,NO
+1986,Norway,-130680.0,tC,LULUCF Net Emissions,GCB,NO
 1987,Norway,29500.0,tC,LULUCF Net Emissions,GCB,NO
 1988,Norway,160560.0,tC,LULUCF Net Emissions,GCB,NO
 1989,Norway,85220.0,tC,LULUCF Net Emissions,GCB,NO
@@ -8300,7 +8300,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2002,Occupied Palestinian Territory,-33150.0,tC,LULUCF Net Emissions,GCB,PS
 2003,Occupied Palestinian Territory,-36520.0,tC,LULUCF Net Emissions,GCB,PS
 2004,Occupied Palestinian Territory,-34460.0,tC,LULUCF Net Emissions,GCB,PS
-2005,Occupied Palestinian Territory,-31829.999999999996,tC,LULUCF Net Emissions,GCB,PS
+2005,Occupied Palestinian Territory,-31830.0,tC,LULUCF Net Emissions,GCB,PS
 2006,Occupied Palestinian Territory,-26720.0,tC,LULUCF Net Emissions,GCB,PS
 2007,Occupied Palestinian Territory,-24440.0,tC,LULUCF Net Emissions,GCB,PS
 2008,Occupied Palestinian Territory,-8260.0,tC,LULUCF Net Emissions,GCB,PS
@@ -8349,7 +8349,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1987,Oman,35580.0,tC,LULUCF Net Emissions,GCB,OM
 1988,Oman,39890.0,tC,LULUCF Net Emissions,GCB,OM
 1989,Oman,39970.0,tC,LULUCF Net Emissions,GCB,OM
-1990,Oman,32669.999999999996,tC,LULUCF Net Emissions,GCB,OM
+1990,Oman,32670.0,tC,LULUCF Net Emissions,GCB,OM
 1991,Oman,32930.0,tC,LULUCF Net Emissions,GCB,OM
 1992,Oman,18210.0,tC,LULUCF Net Emissions,GCB,OM
 1993,Oman,15480.0,tC,LULUCF Net Emissions,GCB,OM
@@ -8374,7 +8374,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2012,Oman,-2010.0,tC,LULUCF Net Emissions,GCB,OM
 2013,Oman,-40.0,tC,LULUCF Net Emissions,GCB,OM
 2014,Oman,35040.0,tC,LULUCF Net Emissions,GCB,OM
-2015,Oman,31829.999999999996,tC,LULUCF Net Emissions,GCB,OM
+2015,Oman,31830.0,tC,LULUCF Net Emissions,GCB,OM
 2016,Oman,69640.0,tC,LULUCF Net Emissions,GCB,OM
 2017,Oman,70980.0,tC,LULUCF Net Emissions,GCB,OM
 2018,Oman,58190.0,tC,LULUCF Net Emissions,GCB,OM
@@ -8390,14 +8390,14 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1964,Pakistan,11312910.0,tC,LULUCF Net Emissions,GCB,PK
 1965,Pakistan,8526030.0,tC,LULUCF Net Emissions,GCB,PK
 1966,Pakistan,6336480.0,tC,LULUCF Net Emissions,GCB,PK
-1967,Pakistan,4091350.0000000005,tC,LULUCF Net Emissions,GCB,PK
+1967,Pakistan,4091350.000000001,tC,LULUCF Net Emissions,GCB,PK
 1968,Pakistan,890270.0,tC,LULUCF Net Emissions,GCB,PK
 1969,Pakistan,1365270.0,tC,LULUCF Net Emissions,GCB,PK
 1970,Pakistan,181720.0,tC,LULUCF Net Emissions,GCB,PK
 1971,Pakistan,82610.0,tC,LULUCF Net Emissions,GCB,PK
 1972,Pakistan,4250220.0,tC,LULUCF Net Emissions,GCB,PK
 1973,Pakistan,1222950.0,tC,LULUCF Net Emissions,GCB,PK
-1974,Pakistan,2016779.9999999998,tC,LULUCF Net Emissions,GCB,PK
+1974,Pakistan,2016780.0,tC,LULUCF Net Emissions,GCB,PK
 1975,Pakistan,706610.0,tC,LULUCF Net Emissions,GCB,PK
 1976,Pakistan,1169330.0,tC,LULUCF Net Emissions,GCB,PK
 1977,Pakistan,3402950.0,tC,LULUCF Net Emissions,GCB,PK
@@ -8416,7 +8416,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1990,Pakistan,-975220.0,tC,LULUCF Net Emissions,GCB,PK
 1991,Pakistan,-329940.0,tC,LULUCF Net Emissions,GCB,PK
 1992,Pakistan,960230.0,tC,LULUCF Net Emissions,GCB,PK
-1993,Pakistan,1018590.0000000001,tC,LULUCF Net Emissions,GCB,PK
+1993,Pakistan,1018590.0,tC,LULUCF Net Emissions,GCB,PK
 1994,Pakistan,1842000.0,tC,LULUCF Net Emissions,GCB,PK
 1995,Pakistan,2127260.0,tC,LULUCF Net Emissions,GCB,PK
 1996,Pakistan,3821560.0,tC,LULUCF Net Emissions,GCB,PK
@@ -8434,11 +8434,11 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2008,Pakistan,-1175590.0,tC,LULUCF Net Emissions,GCB,PK
 2009,Pakistan,-1054190.0,tC,LULUCF Net Emissions,GCB,PK
 2010,Pakistan,1783350.0,tC,LULUCF Net Emissions,GCB,PK
-2011,Pakistan,2061659.9999999998,tC,LULUCF Net Emissions,GCB,PK
+2011,Pakistan,2061660.0,tC,LULUCF Net Emissions,GCB,PK
 2012,Pakistan,2500740.0,tC,LULUCF Net Emissions,GCB,PK
 2013,Pakistan,1513000.0,tC,LULUCF Net Emissions,GCB,PK
 2014,Pakistan,957240.0,tC,LULUCF Net Emissions,GCB,PK
-2015,Pakistan,4089730.0000000005,tC,LULUCF Net Emissions,GCB,PK
+2015,Pakistan,4089730.000000001,tC,LULUCF Net Emissions,GCB,PK
 2016,Pakistan,3245080.0,tC,LULUCF Net Emissions,GCB,PK
 2017,Pakistan,2261220.0,tC,LULUCF Net Emissions,GCB,PK
 2018,Pakistan,1634740.0,tC,LULUCF Net Emissions,GCB,PK
@@ -8533,7 +8533,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1979,Panama,2921540.0,tC,LULUCF Net Emissions,GCB,PA
 1980,Panama,5029170.0,tC,LULUCF Net Emissions,GCB,PA
 1981,Panama,5794890.0,tC,LULUCF Net Emissions,GCB,PA
-1982,Panama,4075999.9999999995,tC,LULUCF Net Emissions,GCB,PA
+1982,Panama,4076000.0,tC,LULUCF Net Emissions,GCB,PA
 1983,Panama,5142910.0,tC,LULUCF Net Emissions,GCB,PA
 1984,Panama,4330540.0,tC,LULUCF Net Emissions,GCB,PA
 1985,Panama,4199930.0,tC,LULUCF Net Emissions,GCB,PA
@@ -8562,7 +8562,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2008,Panama,2640170.0,tC,LULUCF Net Emissions,GCB,PA
 2009,Panama,4998560.0,tC,LULUCF Net Emissions,GCB,PA
 2010,Panama,2588000.0,tC,LULUCF Net Emissions,GCB,PA
-2011,Panama,1041740.0000000001,tC,LULUCF Net Emissions,GCB,PA
+2011,Panama,1041740.0,tC,LULUCF Net Emissions,GCB,PA
 2012,Panama,1872900.0,tC,LULUCF Net Emissions,GCB,PA
 2013,Panama,1553210.0,tC,LULUCF Net Emissions,GCB,PA
 2014,Panama,1280070.0,tC,LULUCF Net Emissions,GCB,PA
@@ -8838,7 +8838,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1964,Poland,-2966110.0,tC,LULUCF Net Emissions,GCB,PL
 1965,Poland,-2991310.0,tC,LULUCF Net Emissions,GCB,PL
 1966,Poland,-3827600.0,tC,LULUCF Net Emissions,GCB,PL
-1967,Poland,-4073400.0000000005,tC,LULUCF Net Emissions,GCB,PL
+1967,Poland,-4073400.000000001,tC,LULUCF Net Emissions,GCB,PL
 1968,Poland,-4745850.0,tC,LULUCF Net Emissions,GCB,PL
 1969,Poland,-4873550.0,tC,LULUCF Net Emissions,GCB,PL
 1970,Poland,-5191690.0,tC,LULUCF Net Emissions,GCB,PL
@@ -8863,7 +8863,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1989,Poland,-4396830.0,tC,LULUCF Net Emissions,GCB,PL
 1990,Poland,-4387480.0,tC,LULUCF Net Emissions,GCB,PL
 1991,Poland,-4253800.0,tC,LULUCF Net Emissions,GCB,PL
-1992,Poland,-4157359.9999999995,tC,LULUCF Net Emissions,GCB,PL
+1992,Poland,-4157360.0,tC,LULUCF Net Emissions,GCB,PL
 1993,Poland,-3914130.0,tC,LULUCF Net Emissions,GCB,PL
 1994,Poland,-3659930.0,tC,LULUCF Net Emissions,GCB,PL
 1995,Poland,-4602090.0,tC,LULUCF Net Emissions,GCB,PL
@@ -8961,8 +8961,8 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1991,Portugal,584630.0,tC,LULUCF Net Emissions,GCB,PT
 1992,Portugal,938370.0,tC,LULUCF Net Emissions,GCB,PT
 1992,Portugal,938370.0,tC,LULUCF Net Emissions,GCB,PT
-1993,Portugal,505279.99999999994,tC,LULUCF Net Emissions,GCB,PT
-1993,Portugal,505279.99999999994,tC,LULUCF Net Emissions,GCB,PT
+1993,Portugal,505280.0,tC,LULUCF Net Emissions,GCB,PT
+1993,Portugal,505280.0,tC,LULUCF Net Emissions,GCB,PT
 1994,Portugal,197180.0,tC,LULUCF Net Emissions,GCB,PT
 1994,Portugal,197180.0,tC,LULUCF Net Emissions,GCB,PT
 1995,Portugal,-598420.0,tC,LULUCF Net Emissions,GCB,PT
@@ -9159,7 +9159,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1965,Romania,4502580.0,tC,LULUCF Net Emissions,GCB,RO
 1966,Romania,4452280.0,tC,LULUCF Net Emissions,GCB,RO
 1967,Romania,5399670.0,tC,LULUCF Net Emissions,GCB,RO
-1968,Romania,4075319.9999999995,tC,LULUCF Net Emissions,GCB,RO
+1968,Romania,4075320.0,tC,LULUCF Net Emissions,GCB,RO
 1969,Romania,3301280.0,tC,LULUCF Net Emissions,GCB,RO
 1970,Romania,2848860.0,tC,LULUCF Net Emissions,GCB,RO
 1971,Romania,2333950.0,tC,LULUCF Net Emissions,GCB,RO
@@ -9435,7 +9435,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1985,Saint Lucia,16370.0,tC,LULUCF Net Emissions,GCB,LC
 1986,Saint Lucia,9530.0,tC,LULUCF Net Emissions,GCB,LC
 1987,Saint Lucia,5660.0,tC,LULUCF Net Emissions,GCB,LC
-1988,Saint Lucia,4060.0000000000005,tC,LULUCF Net Emissions,GCB,LC
+1988,Saint Lucia,4060.000000000001,tC,LULUCF Net Emissions,GCB,LC
 1989,Saint Lucia,1970.0,tC,LULUCF Net Emissions,GCB,LC
 1990,Saint Lucia,-1480.0,tC,LULUCF Net Emissions,GCB,LC
 1991,Saint Lucia,-950.0,tC,LULUCF Net Emissions,GCB,LC
@@ -9661,7 +9661,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2019,Sao Tome and Principe,4110.0,tC,LULUCF Net Emissions,GCB,ST
 2020,Sao Tome and Principe,4450.0,tC,LULUCF Net Emissions,GCB,ST
 2021,Sao Tome and Principe,5910.0,tC,LULUCF Net Emissions,GCB,ST
-2022,Sao Tome and Principe,3969.9999999999995,tC,LULUCF Net Emissions,GCB,ST
+2022,Sao Tome and Principe,3970.0,tC,LULUCF Net Emissions,GCB,ST
 2023,Sao Tome and Principe,4150.0,tC,LULUCF Net Emissions,GCB,ST
 1960,Saudi Arabia,-514430.00000000006,tC,LULUCF Net Emissions,GCB,SA
 1961,Saudi Arabia,-400080.0,tC,LULUCF Net Emissions,GCB,SA
@@ -9676,7 +9676,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Saudi Arabia,279360.0,tC,LULUCF Net Emissions,GCB,SA
 1971,Saudi Arabia,348690.0,tC,LULUCF Net Emissions,GCB,SA
 1972,Saudi Arabia,421980.0,tC,LULUCF Net Emissions,GCB,SA
-1973,Saudi Arabia,518379.99999999994,tC,LULUCF Net Emissions,GCB,SA
+1973,Saudi Arabia,518380.0,tC,LULUCF Net Emissions,GCB,SA
 1974,Saudi Arabia,520140.00000000006,tC,LULUCF Net Emissions,GCB,SA
 1975,Saudi Arabia,601500.0,tC,LULUCF Net Emissions,GCB,SA
 1976,Saudi Arabia,621780.0,tC,LULUCF Net Emissions,GCB,SA
@@ -9772,7 +9772,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2002,Senegal,-399040.0,tC,LULUCF Net Emissions,GCB,SN
 2003,Senegal,108220.0,tC,LULUCF Net Emissions,GCB,SN
 2004,Senegal,1078940.0,tC,LULUCF Net Emissions,GCB,SN
-2005,Senegal,-255139.99999999997,tC,LULUCF Net Emissions,GCB,SN
+2005,Senegal,-255140.0,tC,LULUCF Net Emissions,GCB,SN
 2006,Senegal,432840.0,tC,LULUCF Net Emissions,GCB,SN
 2007,Senegal,6277450.0,tC,LULUCF Net Emissions,GCB,SN
 2008,Senegal,3909220.0,tC,LULUCF Net Emissions,GCB,SN
@@ -9804,7 +9804,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Serbia,-237630.0,tC,LULUCF Net Emissions,GCB,RS
 1971,Serbia,-347970.0,tC,LULUCF Net Emissions,GCB,RS
 1972,Serbia,-446330.0,tC,LULUCF Net Emissions,GCB,RS
-1973,Serbia,-510449.99999999994,tC,LULUCF Net Emissions,GCB,RS
+1973,Serbia,-510450.0,tC,LULUCF Net Emissions,GCB,RS
 1974,Serbia,-543820.0,tC,LULUCF Net Emissions,GCB,RS
 1975,Serbia,-624680.0,tC,LULUCF Net Emissions,GCB,RS
 1976,Serbia,-717160.0,tC,LULUCF Net Emissions,GCB,RS
@@ -9832,7 +9832,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1998,Serbia,-2132100.0,tC,LULUCF Net Emissions,GCB,RS
 1999,Serbia,-1997730.0,tC,LULUCF Net Emissions,GCB,RS
 2000,Serbia,-1998800.0,tC,LULUCF Net Emissions,GCB,RS
-2001,Serbia,-2005129.9999999998,tC,LULUCF Net Emissions,GCB,RS
+2001,Serbia,-2005130.0,tC,LULUCF Net Emissions,GCB,RS
 2002,Serbia,-1953890.0,tC,LULUCF Net Emissions,GCB,RS
 2003,Serbia,-1708070.0,tC,LULUCF Net Emissions,GCB,RS
 2004,Serbia,-1224050.0,tC,LULUCF Net Emissions,GCB,RS
@@ -9853,7 +9853,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2019,Serbia,-2210390.0,tC,LULUCF Net Emissions,GCB,RS
 2020,Serbia,-2136490.0,tC,LULUCF Net Emissions,GCB,RS
 2021,Serbia,-2065880.0,tC,LULUCF Net Emissions,GCB,RS
-2022,Serbia,-2038050.0000000002,tC,LULUCF Net Emissions,GCB,RS
+2022,Serbia,-2038050.0,tC,LULUCF Net Emissions,GCB,RS
 2023,Serbia,-1975860.0,tC,LULUCF Net Emissions,GCB,RS
 1960,Seychelles,0.0,tC,LULUCF Net Emissions,GCB,SC
 1961,Seychelles,0.0,tC,LULUCF Net Emissions,GCB,SC
@@ -9945,7 +9945,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1983,Sierra Leone,1843700.0,tC,LULUCF Net Emissions,GCB,SL
 1984,Sierra Leone,3034750.0,tC,LULUCF Net Emissions,GCB,SL
 1985,Sierra Leone,2442190.0,tC,LULUCF Net Emissions,GCB,SL
-1986,Sierra Leone,2013259.9999999998,tC,LULUCF Net Emissions,GCB,SL
+1986,Sierra Leone,2013260.0,tC,LULUCF Net Emissions,GCB,SL
 1987,Sierra Leone,1728850.0,tC,LULUCF Net Emissions,GCB,SL
 1988,Sierra Leone,1568180.0,tC,LULUCF Net Emissions,GCB,SL
 1989,Sierra Leone,1509720.0,tC,LULUCF Net Emissions,GCB,SL
@@ -9958,7 +9958,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1996,Sierra Leone,1353160.0,tC,LULUCF Net Emissions,GCB,SL
 1997,Sierra Leone,1352830.0,tC,LULUCF Net Emissions,GCB,SL
 1998,Sierra Leone,1541750.0,tC,LULUCF Net Emissions,GCB,SL
-1999,Sierra Leone,2039759.9999999998,tC,LULUCF Net Emissions,GCB,SL
+1999,Sierra Leone,2039760.0,tC,LULUCF Net Emissions,GCB,SL
 2000,Sierra Leone,7136480.0,tC,LULUCF Net Emissions,GCB,SL
 2001,Sierra Leone,11714410.0,tC,LULUCF Net Emissions,GCB,SL
 2002,Sierra Leone,16986570.0,tC,LULUCF Net Emissions,GCB,SL
@@ -9972,7 +9972,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2010,Sierra Leone,7890520.0,tC,LULUCF Net Emissions,GCB,SL
 2011,Sierra Leone,5497780.0,tC,LULUCF Net Emissions,GCB,SL
 2012,Sierra Leone,5481540.0,tC,LULUCF Net Emissions,GCB,SL
-2013,Sierra Leone,4108139.9999999995,tC,LULUCF Net Emissions,GCB,SL
+2013,Sierra Leone,4108140.0,tC,LULUCF Net Emissions,GCB,SL
 2014,Sierra Leone,3446150.0,tC,LULUCF Net Emissions,GCB,SL
 2015,Sierra Leone,3056390.0,tC,LULUCF Net Emissions,GCB,SL
 2016,Sierra Leone,2927720.0,tC,LULUCF Net Emissions,GCB,SL
@@ -9981,7 +9981,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2019,Sierra Leone,2160690.0,tC,LULUCF Net Emissions,GCB,SL
 2020,Sierra Leone,2095910.0,tC,LULUCF Net Emissions,GCB,SL
 2021,Sierra Leone,2151460.0,tC,LULUCF Net Emissions,GCB,SL
-2022,Sierra Leone,2057710.0000000002,tC,LULUCF Net Emissions,GCB,SL
+2022,Sierra Leone,2057710.0,tC,LULUCF Net Emissions,GCB,SL
 2023,Sierra Leone,2197930.0,tC,LULUCF Net Emissions,GCB,SL
 1960,Singapore,-27910.0,tC,LULUCF Net Emissions,GCB,SG
 1961,Singapore,-16420.0,tC,LULUCF Net Emissions,GCB,SG
@@ -10173,11 +10173,11 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2019,Slovenia,768550.0,tC,LULUCF Net Emissions,GCB,SI
 2020,Slovenia,626160.0,tC,LULUCF Net Emissions,GCB,SI
 2021,Slovenia,614010.0,tC,LULUCF Net Emissions,GCB,SI
-2022,Slovenia,512109.99999999994,tC,LULUCF Net Emissions,GCB,SI
+2022,Slovenia,512110.0,tC,LULUCF Net Emissions,GCB,SI
 2023,Slovenia,459100.0,tC,LULUCF Net Emissions,GCB,SI
-1960,Solomon Islands,255979.99999999997,tC,LULUCF Net Emissions,GCB,SB
+1960,Solomon Islands,255980.0,tC,LULUCF Net Emissions,GCB,SB
 1961,Solomon Islands,4280.0,tC,LULUCF Net Emissions,GCB,SB
-1962,Solomon Islands,129899.99999999999,tC,LULUCF Net Emissions,GCB,SB
+1962,Solomon Islands,129900.0,tC,LULUCF Net Emissions,GCB,SB
 1963,Solomon Islands,-27480.0,tC,LULUCF Net Emissions,GCB,SB
 1964,Solomon Islands,109130.0,tC,LULUCF Net Emissions,GCB,SB
 1965,Solomon Islands,35450.0,tC,LULUCF Net Emissions,GCB,SB
@@ -10208,14 +10208,14 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1990,Solomon Islands,237100.0,tC,LULUCF Net Emissions,GCB,SB
 1991,Solomon Islands,273920.0,tC,LULUCF Net Emissions,GCB,SB
 1992,Solomon Islands,253760.0,tC,LULUCF Net Emissions,GCB,SB
-1993,Solomon Islands,258249.99999999997,tC,LULUCF Net Emissions,GCB,SB
-1994,Solomon Islands,254309.99999999997,tC,LULUCF Net Emissions,GCB,SB
+1993,Solomon Islands,258250.0,tC,LULUCF Net Emissions,GCB,SB
+1994,Solomon Islands,254310.0,tC,LULUCF Net Emissions,GCB,SB
 1995,Solomon Islands,219820.0,tC,LULUCF Net Emissions,GCB,SB
 1996,Solomon Islands,219360.0,tC,LULUCF Net Emissions,GCB,SB
 1997,Solomon Islands,249060.0,tC,LULUCF Net Emissions,GCB,SB
 1998,Solomon Islands,278490.0,tC,LULUCF Net Emissions,GCB,SB
 1999,Solomon Islands,216930.0,tC,LULUCF Net Emissions,GCB,SB
-2000,Solomon Islands,252919.99999999997,tC,LULUCF Net Emissions,GCB,SB
+2000,Solomon Islands,252920.0,tC,LULUCF Net Emissions,GCB,SB
 2001,Solomon Islands,301470.0,tC,LULUCF Net Emissions,GCB,SB
 2002,Solomon Islands,369220.0,tC,LULUCF Net Emissions,GCB,SB
 2003,Solomon Islands,378040.0,tC,LULUCF Net Emissions,GCB,SB
@@ -10450,23 +10450,23 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1976,Spain,-1813600.0,tC,LULUCF Net Emissions,GCB,ES
 1977,Spain,-1831890.0,tC,LULUCF Net Emissions,GCB,ES
 1978,Spain,-2027060.0,tC,LULUCF Net Emissions,GCB,ES
-1979,Spain,-2086730.0000000002,tC,LULUCF Net Emissions,GCB,ES
+1979,Spain,-2086730.0,tC,LULUCF Net Emissions,GCB,ES
 1980,Spain,-2041090.0,tC,LULUCF Net Emissions,GCB,ES
 1981,Spain,-1959180.0,tC,LULUCF Net Emissions,GCB,ES
 1982,Spain,-1791230.0,tC,LULUCF Net Emissions,GCB,ES
 1983,Spain,-1859630.0,tC,LULUCF Net Emissions,GCB,ES
 1984,Spain,-2122520.0,tC,LULUCF Net Emissions,GCB,ES
 1985,Spain,-2015810.0,tC,LULUCF Net Emissions,GCB,ES
-1986,Spain,-2041650.0000000002,tC,LULUCF Net Emissions,GCB,ES
+1986,Spain,-2041650.0,tC,LULUCF Net Emissions,GCB,ES
 1987,Spain,-1928630.0,tC,LULUCF Net Emissions,GCB,ES
 1988,Spain,-1844430.0,tC,LULUCF Net Emissions,GCB,ES
-1989,Spain,-2034660.0000000002,tC,LULUCF Net Emissions,GCB,ES
+1989,Spain,-2034660.0,tC,LULUCF Net Emissions,GCB,ES
 1990,Spain,-2139060.0,tC,LULUCF Net Emissions,GCB,ES
 1991,Spain,-2565510.0,tC,LULUCF Net Emissions,GCB,ES
 1992,Spain,-3620730.0,tC,LULUCF Net Emissions,GCB,ES
 1993,Spain,-3711070.0,tC,LULUCF Net Emissions,GCB,ES
 1994,Spain,-6949490.0,tC,LULUCF Net Emissions,GCB,ES
-1995,Spain,-1023579.9999999999,tC,LULUCF Net Emissions,GCB,ES
+1995,Spain,-1023580.0,tC,LULUCF Net Emissions,GCB,ES
 1996,Spain,-2356860.0,tC,LULUCF Net Emissions,GCB,ES
 1997,Spain,-5101700.0,tC,LULUCF Net Emissions,GCB,ES
 1998,Spain,-2684880.0,tC,LULUCF Net Emissions,GCB,ES
@@ -10508,12 +10508,12 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1970,Sri Lanka,4584510.0,tC,LULUCF Net Emissions,GCB,LK
 1971,Sri Lanka,4464530.0,tC,LULUCF Net Emissions,GCB,LK
 1972,Sri Lanka,4154870.0,tC,LULUCF Net Emissions,GCB,LK
-1973,Sri Lanka,4022960.0000000005,tC,LULUCF Net Emissions,GCB,LK
+1973,Sri Lanka,4022960.000000001,tC,LULUCF Net Emissions,GCB,LK
 1974,Sri Lanka,3809210.0,tC,LULUCF Net Emissions,GCB,LK
 1975,Sri Lanka,4892200.0,tC,LULUCF Net Emissions,GCB,LK
 1976,Sri Lanka,5369220.0,tC,LULUCF Net Emissions,GCB,LK
 1977,Sri Lanka,5618610.0,tC,LULUCF Net Emissions,GCB,LK
-1978,Sri Lanka,4008200.0000000005,tC,LULUCF Net Emissions,GCB,LK
+1978,Sri Lanka,4008200.000000001,tC,LULUCF Net Emissions,GCB,LK
 1979,Sri Lanka,3494600.0,tC,LULUCF Net Emissions,GCB,LK
 1980,Sri Lanka,3276750.0,tC,LULUCF Net Emissions,GCB,LK
 1981,Sri Lanka,3027940.0,tC,LULUCF Net Emissions,GCB,LK
@@ -10623,7 +10623,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2021,Sudan,8097569.999999999,tC,LULUCF Net Emissions,GCB,SD
 2022,Sudan,8085129.999999999,tC,LULUCF Net Emissions,GCB,SD
 2023,Sudan,7940860.0,tC,LULUCF Net Emissions,GCB,SD
-1960,Suriname,130649.99999999999,tC,LULUCF Net Emissions,GCB,SR
+1960,Suriname,130650.0,tC,LULUCF Net Emissions,GCB,SR
 1961,Suriname,189560.0,tC,LULUCF Net Emissions,GCB,SR
 1962,Suriname,157690.0,tC,LULUCF Net Emissions,GCB,SR
 1963,Suriname,396560.0,tC,LULUCF Net Emissions,GCB,SR
@@ -10690,7 +10690,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1960,Swaziland,422450.0,tC,LULUCF Net Emissions,GCB,SZ
 1961,Swaziland,416290.0,tC,LULUCF Net Emissions,GCB,SZ
 1962,Swaziland,273900.0,tC,LULUCF Net Emissions,GCB,SZ
-1963,Swaziland,259909.99999999997,tC,LULUCF Net Emissions,GCB,SZ
+1963,Swaziland,259910.0,tC,LULUCF Net Emissions,GCB,SZ
 1964,Swaziland,303300.0,tC,LULUCF Net Emissions,GCB,SZ
 1965,Swaziland,374480.0,tC,LULUCF Net Emissions,GCB,SZ
 1966,Swaziland,354080.0,tC,LULUCF Net Emissions,GCB,SZ
@@ -10706,7 +10706,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1976,Swaziland,153980.0,tC,LULUCF Net Emissions,GCB,SZ
 1977,Swaziland,589540.0,tC,LULUCF Net Emissions,GCB,SZ
 1978,Swaziland,376330.0,tC,LULUCF Net Emissions,GCB,SZ
-1979,Swaziland,254589.99999999997,tC,LULUCF Net Emissions,GCB,SZ
+1979,Swaziland,254590.0,tC,LULUCF Net Emissions,GCB,SZ
 1980,Swaziland,-167750.0,tC,LULUCF Net Emissions,GCB,SZ
 1981,Swaziland,25360.0,tC,LULUCF Net Emissions,GCB,SZ
 1982,Swaziland,56510.0,tC,LULUCF Net Emissions,GCB,SZ
@@ -10770,7 +10770,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1976,Sweden,-3979980.0,tC,LULUCF Net Emissions,GCB,SE
 1977,Sweden,-4099830.0,tC,LULUCF Net Emissions,GCB,SE
 1978,Sweden,-4274320.0,tC,LULUCF Net Emissions,GCB,SE
-1979,Sweden,-4163599.9999999995,tC,LULUCF Net Emissions,GCB,SE
+1979,Sweden,-4163600.0,tC,LULUCF Net Emissions,GCB,SE
 1980,Sweden,-4284090.0,tC,LULUCF Net Emissions,GCB,SE
 1981,Sweden,-4300820.0,tC,LULUCF Net Emissions,GCB,SE
 1982,Sweden,-4568870.0,tC,LULUCF Net Emissions,GCB,SE
@@ -10856,7 +10856,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1998,Switzerland,-44910.0,tC,LULUCF Net Emissions,GCB,CH
 1999,Switzerland,-155830.0,tC,LULUCF Net Emissions,GCB,CH
 2000,Switzerland,-18790.0,tC,LULUCF Net Emissions,GCB,CH
-2001,Switzerland,31649.999999999996,tC,LULUCF Net Emissions,GCB,CH
+2001,Switzerland,31650.0,tC,LULUCF Net Emissions,GCB,CH
 2002,Switzerland,-90710.0,tC,LULUCF Net Emissions,GCB,CH
 2003,Switzerland,-78870.0,tC,LULUCF Net Emissions,GCB,CH
 2004,Switzerland,-170230.0,tC,LULUCF Net Emissions,GCB,CH
@@ -10873,7 +10873,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2015,Switzerland,-266300.0,tC,LULUCF Net Emissions,GCB,CH
 2016,Switzerland,-279400.0,tC,LULUCF Net Emissions,GCB,CH
 2017,Switzerland,-235790.0,tC,LULUCF Net Emissions,GCB,CH
-2018,Switzerland,-258359.99999999997,tC,LULUCF Net Emissions,GCB,CH
+2018,Switzerland,-258360.0,tC,LULUCF Net Emissions,GCB,CH
 2019,Switzerland,-292910.0,tC,LULUCF Net Emissions,GCB,CH
 2020,Switzerland,-301120.0,tC,LULUCF Net Emissions,GCB,CH
 2021,Switzerland,-290760.0,tC,LULUCF Net Emissions,GCB,CH
@@ -10904,7 +10904,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1982,Syria,-634010.0,tC,LULUCF Net Emissions,GCB,SY
 1983,Syria,-332270.0,tC,LULUCF Net Emissions,GCB,SY
 1984,Syria,-527030.0,tC,LULUCF Net Emissions,GCB,SY
-1985,Syria,-524109.99999999994,tC,LULUCF Net Emissions,GCB,SY
+1985,Syria,-524110.0,tC,LULUCF Net Emissions,GCB,SY
 1986,Syria,-509090.00000000006,tC,LULUCF Net Emissions,GCB,SY
 1987,Syria,-741610.0,tC,LULUCF Net Emissions,GCB,SY
 1988,Syria,-695970.0,tC,LULUCF Net Emissions,GCB,SY
@@ -10955,7 +10955,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1969,Tajikistan,556530.0,tC,LULUCF Net Emissions,GCB,TJ
 1970,Tajikistan,767540.0,tC,LULUCF Net Emissions,GCB,TJ
 1971,Tajikistan,599940.0,tC,LULUCF Net Emissions,GCB,TJ
-1972,Tajikistan,515279.99999999994,tC,LULUCF Net Emissions,GCB,TJ
+1972,Tajikistan,515280.0,tC,LULUCF Net Emissions,GCB,TJ
 1973,Tajikistan,530600.0,tC,LULUCF Net Emissions,GCB,TJ
 1974,Tajikistan,473260.0,tC,LULUCF Net Emissions,GCB,TJ
 1975,Tajikistan,468720.0,tC,LULUCF Net Emissions,GCB,TJ
@@ -10975,7 +10975,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1989,Tajikistan,320060.0,tC,LULUCF Net Emissions,GCB,TJ
 1990,Tajikistan,327170.0,tC,LULUCF Net Emissions,GCB,TJ
 1991,Tajikistan,363280.0,tC,LULUCF Net Emissions,GCB,TJ
-1992,Tajikistan,519229.99999999994,tC,LULUCF Net Emissions,GCB,TJ
+1992,Tajikistan,519230.0,tC,LULUCF Net Emissions,GCB,TJ
 1993,Tajikistan,317540.0,tC,LULUCF Net Emissions,GCB,TJ
 1994,Tajikistan,490110.0,tC,LULUCF Net Emissions,GCB,TJ
 1995,Tajikistan,342390.0,tC,LULUCF Net Emissions,GCB,TJ
@@ -10990,7 +10990,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2004,Tajikistan,245800.0,tC,LULUCF Net Emissions,GCB,TJ
 2005,Tajikistan,364940.0,tC,LULUCF Net Emissions,GCB,TJ
 2006,Tajikistan,247800.0,tC,LULUCF Net Emissions,GCB,TJ
-2007,Tajikistan,260629.99999999997,tC,LULUCF Net Emissions,GCB,TJ
+2007,Tajikistan,260630.0,tC,LULUCF Net Emissions,GCB,TJ
 2008,Tajikistan,339930.0,tC,LULUCF Net Emissions,GCB,TJ
 2009,Tajikistan,225480.0,tC,LULUCF Net Emissions,GCB,TJ
 2010,Tajikistan,282350.0,tC,LULUCF Net Emissions,GCB,TJ
@@ -11009,7 +11009,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2023,Tajikistan,384520.0,tC,LULUCF Net Emissions,GCB,TJ
 1960,Tanzania,21620770.0,tC,LULUCF Net Emissions,GCB,TZ
 1961,Tanzania,20619850.0,tC,LULUCF Net Emissions,GCB,TZ
-1962,Tanzania,33291469.999999996,tC,LULUCF Net Emissions,GCB,TZ
+1962,Tanzania,33291470.0,tC,LULUCF Net Emissions,GCB,TZ
 1963,Tanzania,28823640.0,tC,LULUCF Net Emissions,GCB,TZ
 1964,Tanzania,23419040.0,tC,LULUCF Net Emissions,GCB,TZ
 1965,Tanzania,19666210.0,tC,LULUCF Net Emissions,GCB,TZ
@@ -11184,13 +11184,13 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2006,Timor-Leste,473320.0,tC,LULUCF Net Emissions,GCB,TL
 2007,Timor-Leste,577690.0,tC,LULUCF Net Emissions,GCB,TL
 2008,Timor-Leste,496190.0,tC,LULUCF Net Emissions,GCB,TL
-2009,Timor-Leste,505569.99999999994,tC,LULUCF Net Emissions,GCB,TL
+2009,Timor-Leste,505570.0,tC,LULUCF Net Emissions,GCB,TL
 2010,Timor-Leste,545710.0,tC,LULUCF Net Emissions,GCB,TL
 2011,Timor-Leste,466920.0,tC,LULUCF Net Emissions,GCB,TL
 2012,Timor-Leste,478010.0,tC,LULUCF Net Emissions,GCB,TL
 2013,Timor-Leste,503420.0,tC,LULUCF Net Emissions,GCB,TL
 2014,Timor-Leste,532420.0,tC,LULUCF Net Emissions,GCB,TL
-2015,Timor-Leste,504669.99999999994,tC,LULUCF Net Emissions,GCB,TL
+2015,Timor-Leste,504670.0,tC,LULUCF Net Emissions,GCB,TL
 2016,Timor-Leste,477740.0,tC,LULUCF Net Emissions,GCB,TL
 2017,Timor-Leste,663150.0,tC,LULUCF Net Emissions,GCB,TL
 2018,Timor-Leste,542570.0,tC,LULUCF Net Emissions,GCB,TL
@@ -11213,7 +11213,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1971,Togo,273910.0,tC,LULUCF Net Emissions,GCB,TG
 1972,Togo,244940.0,tC,LULUCF Net Emissions,GCB,TG
 1973,Togo,240380.0,tC,LULUCF Net Emissions,GCB,TG
-1974,Togo,257029.99999999997,tC,LULUCF Net Emissions,GCB,TG
+1974,Togo,257030.0,tC,LULUCF Net Emissions,GCB,TG
 1975,Togo,266480.0,tC,LULUCF Net Emissions,GCB,TG
 1976,Togo,300280.0,tC,LULUCF Net Emissions,GCB,TG
 1977,Togo,1422750.0,tC,LULUCF Net Emissions,GCB,TG
@@ -11230,7 +11230,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1988,Togo,772620.0,tC,LULUCF Net Emissions,GCB,TG
 1989,Togo,895260.0,tC,LULUCF Net Emissions,GCB,TG
 1990,Togo,946710.0,tC,LULUCF Net Emissions,GCB,TG
-1991,Togo,1036790.0000000001,tC,LULUCF Net Emissions,GCB,TG
+1991,Togo,1036790.0,tC,LULUCF Net Emissions,GCB,TG
 1992,Togo,1156510.0,tC,LULUCF Net Emissions,GCB,TG
 1993,Togo,1115750.0,tC,LULUCF Net Emissions,GCB,TG
 1994,Togo,1280450.0,tC,LULUCF Net Emissions,GCB,TG
@@ -11439,7 +11439,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2005,Tunisia,172490.0,tC,LULUCF Net Emissions,GCB,TN
 2006,Tunisia,279400.0,tC,LULUCF Net Emissions,GCB,TN
 2007,Tunisia,449170.0,tC,LULUCF Net Emissions,GCB,TN
-2008,Tunisia,521499.99999999994,tC,LULUCF Net Emissions,GCB,TN
+2008,Tunisia,521500.0,tC,LULUCF Net Emissions,GCB,TN
 2009,Tunisia,1718420.0,tC,LULUCF Net Emissions,GCB,TN
 2010,Tunisia,984930.0,tC,LULUCF Net Emissions,GCB,TN
 2011,Tunisia,467520.0,tC,LULUCF Net Emissions,GCB,TN
@@ -11578,7 +11578,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2016,Turkmenistan,551260.0,tC,LULUCF Net Emissions,GCB,TM
 2017,Turkmenistan,525910.0,tC,LULUCF Net Emissions,GCB,TM
 2018,Turkmenistan,527310.0,tC,LULUCF Net Emissions,GCB,TM
-2019,Turkmenistan,503669.99999999994,tC,LULUCF Net Emissions,GCB,TM
+2019,Turkmenistan,503670.0,tC,LULUCF Net Emissions,GCB,TM
 2020,Turkmenistan,468800.0,tC,LULUCF Net Emissions,GCB,TM
 2021,Turkmenistan,479270.0,tC,LULUCF Net Emissions,GCB,TM
 2022,Turkmenistan,471660.0,tC,LULUCF Net Emissions,GCB,TM
@@ -11738,12 +11738,12 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1984,Ukraine,5808520.0,tC,LULUCF Net Emissions,GCB,UA
 1985,Ukraine,5355420.0,tC,LULUCF Net Emissions,GCB,UA
 1986,Ukraine,5169640.0,tC,LULUCF Net Emissions,GCB,UA
-1987,Ukraine,4191740.0000000005,tC,LULUCF Net Emissions,GCB,UA
+1987,Ukraine,4191740.000000001,tC,LULUCF Net Emissions,GCB,UA
 1988,Ukraine,2992220.0,tC,LULUCF Net Emissions,GCB,UA
 1989,Ukraine,2467000.0,tC,LULUCF Net Emissions,GCB,UA
 1990,Ukraine,2172950.0,tC,LULUCF Net Emissions,GCB,UA
 1991,Ukraine,3135730.0,tC,LULUCF Net Emissions,GCB,UA
-1992,Ukraine,2040830.0000000002,tC,LULUCF Net Emissions,GCB,UA
+1992,Ukraine,2040830.0,tC,LULUCF Net Emissions,GCB,UA
 1993,Ukraine,1293110.0,tC,LULUCF Net Emissions,GCB,UA
 1994,Ukraine,1617170.0,tC,LULUCF Net Emissions,GCB,UA
 1995,Ukraine,471720.0,tC,LULUCF Net Emissions,GCB,UA
@@ -11772,7 +11772,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2018,Ukraine,707600.0,tC,LULUCF Net Emissions,GCB,UA
 2019,Ukraine,558100.0,tC,LULUCF Net Emissions,GCB,UA
 2020,Ukraine,363620.0,tC,LULUCF Net Emissions,GCB,UA
-2021,Ukraine,261019.99999999997,tC,LULUCF Net Emissions,GCB,UA
+2021,Ukraine,261020.0,tC,LULUCF Net Emissions,GCB,UA
 2022,Ukraine,183470.0,tC,LULUCF Net Emissions,GCB,UA
 2023,Ukraine,47750.0,tC,LULUCF Net Emissions,GCB,UA
 1960,United Arab Emirates,-3680.0,tC,LULUCF Net Emissions,GCB,AE
@@ -11825,7 +11825,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2007,United Arab Emirates,-96850.0,tC,LULUCF Net Emissions,GCB,AE
 2008,United Arab Emirates,-138430.0,tC,LULUCF Net Emissions,GCB,AE
 2009,United Arab Emirates,-129860.0,tC,LULUCF Net Emissions,GCB,AE
-2010,United Arab Emirates,-128929.99999999999,tC,LULUCF Net Emissions,GCB,AE
+2010,United Arab Emirates,-128930.0,tC,LULUCF Net Emissions,GCB,AE
 2011,United Arab Emirates,-122390.0,tC,LULUCF Net Emissions,GCB,AE
 2012,United Arab Emirates,-115930.0,tC,LULUCF Net Emissions,GCB,AE
 2013,United Arab Emirates,-112130.0,tC,LULUCF Net Emissions,GCB,AE
@@ -11848,7 +11848,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1966,United Kingdom,3795870.0,tC,LULUCF Net Emissions,GCB,GB
 1967,United Kingdom,3444910.0,tC,LULUCF Net Emissions,GCB,GB
 1968,United Kingdom,2896870.0,tC,LULUCF Net Emissions,GCB,GB
-1969,United Kingdom,2006810.0000000002,tC,LULUCF Net Emissions,GCB,GB
+1969,United Kingdom,2006810.0,tC,LULUCF Net Emissions,GCB,GB
 1970,United Kingdom,2163560.0,tC,LULUCF Net Emissions,GCB,GB
 1971,United Kingdom,1930840.0,tC,LULUCF Net Emissions,GCB,GB
 1972,United Kingdom,1781000.0,tC,LULUCF Net Emissions,GCB,GB
@@ -12000,7 +12000,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1990,Uruguay,-1438750.0,tC,LULUCF Net Emissions,GCB,UY
 1991,Uruguay,-1331550.0,tC,LULUCF Net Emissions,GCB,UY
 1992,Uruguay,-1163180.0,tC,LULUCF Net Emissions,GCB,UY
-1993,Uruguay,-1009980.0000000001,tC,LULUCF Net Emissions,GCB,UY
+1993,Uruguay,-1009980.0,tC,LULUCF Net Emissions,GCB,UY
 1994,Uruguay,-962770.0,tC,LULUCF Net Emissions,GCB,UY
 1995,Uruguay,-869910.0,tC,LULUCF Net Emissions,GCB,UY
 1996,Uruguay,-796300.0,tC,LULUCF Net Emissions,GCB,UY
@@ -12047,7 +12047,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1973,Uzbekistan,2387480.0,tC,LULUCF Net Emissions,GCB,UZ
 1974,Uzbekistan,2147270.0,tC,LULUCF Net Emissions,GCB,UZ
 1975,Uzbekistan,2177140.0,tC,LULUCF Net Emissions,GCB,UZ
-1976,Uzbekistan,2053119.9999999998,tC,LULUCF Net Emissions,GCB,UZ
+1976,Uzbekistan,2053120.0,tC,LULUCF Net Emissions,GCB,UZ
 1977,Uzbekistan,2002500.0,tC,LULUCF Net Emissions,GCB,UZ
 1978,Uzbekistan,1898640.0,tC,LULUCF Net Emissions,GCB,UZ
 1979,Uzbekistan,1945320.0,tC,LULUCF Net Emissions,GCB,UZ
@@ -12114,7 +12114,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1976,Vanuatu,205920.0,tC,LULUCF Net Emissions,GCB,VU
 1977,Vanuatu,163650.0,tC,LULUCF Net Emissions,GCB,VU
 1978,Vanuatu,176430.0,tC,LULUCF Net Emissions,GCB,VU
-1979,Vanuatu,126400.00000000001,tC,LULUCF Net Emissions,GCB,VU
+1979,Vanuatu,126400.0,tC,LULUCF Net Emissions,GCB,VU
 1980,Vanuatu,219880.0,tC,LULUCF Net Emissions,GCB,VU
 1981,Vanuatu,197680.0,tC,LULUCF Net Emissions,GCB,VU
 1982,Vanuatu,234020.0,tC,LULUCF Net Emissions,GCB,VU
@@ -12308,7 +12308,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1978,Yemen,51440.0,tC,LULUCF Net Emissions,GCB,YE
 1979,Yemen,40660.0,tC,LULUCF Net Emissions,GCB,YE
 1980,Yemen,39180.0,tC,LULUCF Net Emissions,GCB,YE
-1981,Yemen,31309.999999999996,tC,LULUCF Net Emissions,GCB,YE
+1981,Yemen,31310.0,tC,LULUCF Net Emissions,GCB,YE
 1982,Yemen,28590.0,tC,LULUCF Net Emissions,GCB,YE
 1983,Yemen,27540.0,tC,LULUCF Net Emissions,GCB,YE
 1984,Yemen,43100.0,tC,LULUCF Net Emissions,GCB,YE
@@ -12319,7 +12319,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 1989,Yemen,596500.0,tC,LULUCF Net Emissions,GCB,YE
 1990,Yemen,363660.0,tC,LULUCF Net Emissions,GCB,YE
 1991,Yemen,172020.0,tC,LULUCF Net Emissions,GCB,YE
-1992,Yemen,1003300.0000000001,tC,LULUCF Net Emissions,GCB,YE
+1992,Yemen,1003300.0,tC,LULUCF Net Emissions,GCB,YE
 1993,Yemen,624010.0,tC,LULUCF Net Emissions,GCB,YE
 1994,Yemen,504080.0,tC,LULUCF Net Emissions,GCB,YE
 1995,Yemen,525120.0,tC,LULUCF Net Emissions,GCB,YE
@@ -12463,7 +12463,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2005,Zimbabwe,6953030.0,tC,LULUCF Net Emissions,GCB,ZW
 2006,Zimbabwe,5489640.0,tC,LULUCF Net Emissions,GCB,ZW
 2007,Zimbabwe,6898020.0,tC,LULUCF Net Emissions,GCB,ZW
-2008,Zimbabwe,4180780.0000000005,tC,LULUCF Net Emissions,GCB,ZW
+2008,Zimbabwe,4180780.000000001,tC,LULUCF Net Emissions,GCB,ZW
 2009,Zimbabwe,3342330.0,tC,LULUCF Net Emissions,GCB,ZW
 2010,Zimbabwe,4795750.0,tC,LULUCF Net Emissions,GCB,ZW
 2011,Zimbabwe,3191650.0,tC,LULUCF Net Emissions,GCB,ZW
@@ -12472,7 +12472,7 @@ Year,Country,Value,Unit,Indicator,Source,Country_code
 2014,Zimbabwe,2002030.0,tC,LULUCF Net Emissions,GCB,ZW
 2015,Zimbabwe,1724980.0,tC,LULUCF Net Emissions,GCB,ZW
 2016,Zimbabwe,1788940.0,tC,LULUCF Net Emissions,GCB,ZW
-2017,Zimbabwe,2007089.9999999998,tC,LULUCF Net Emissions,GCB,ZW
+2017,Zimbabwe,2007090.0,tC,LULUCF Net Emissions,GCB,ZW
 2018,Zimbabwe,1634470.0,tC,LULUCF Net Emissions,GCB,ZW
 2019,Zimbabwe,1646420.0,tC,LULUCF Net Emissions,GCB,ZW
 2020,Zimbabwe,1531310.0,tC,LULUCF Net Emissions,GCB,ZW
