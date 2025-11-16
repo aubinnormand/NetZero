@@ -189,4 +189,34 @@ def concat_intermediate_files(base_path, folder_in="data_intermediate", folder_o
     print(f"DataFrame final sauvegardé dans {save_path}")
     return df_final
 
+    import numpy as np
+
+def format_scientific(value, precision=2):
+    """
+    Return number in scientific notation (power of 10).
+    Example: 123456 -> '1.23×10^5'
+    """
+    if value is None or np.isnan(value):
+        return "No data"
+
+    coeff = f"{value:.{precision}e}"
+    base, exp = coeff.split("e")
+
+    exp = int(exp)
+    base = float(base)
+
+    return f"{base}×10^{exp}"
+
+
+def apply_unit_modifier(unit: str, type_value: str):
+    """
+    Append '/year' if type is Annual.
+    """
+    if unit is None:
+        return ""
+    if type_value == "Annual":
+        return f"{unit}/year"
+    return unit
+
+
 
