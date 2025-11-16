@@ -38,10 +38,12 @@ norm_map_labels = list(norm_map.keys())
 
 # --- Dash app ---
 app = dash.Dash(__name__)
+server = app.server  # <-- Must be global, visible par Gunicorn
+
 app.title = "NetZeroVisu"
 app.layout = get_layout(indicator_options, database_options, norm_map_labels, first_year, last_year, year_options, scale_options, color_range_options, type_options)
 register_callbacks(app, df_data, gdf_world, norm_map)
 
 if __name__ == "__main__":
-    app.run(debug=False, port=8050)
+    app.run(debug=False)
 
