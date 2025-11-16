@@ -5,8 +5,13 @@ from dash import dcc, html
 
 # Root of project (NetZero)
 base_path = Path(__file__).parent.parent  # <-- parent of Code/
+code_path = Path(__file__).parent         # Code/
 scripts_path = Path(__file__).parent / "scripts"
 sys.path.append(str(scripts_path.resolve()))
+
+# Ajouter le dossier Code au path
+sys.path.append(str(code_path.resolve()))
+
 
 from scripts.data_utils import import_csv_data, import_data_sig
 from scripts.map_utils import simplify_geom
