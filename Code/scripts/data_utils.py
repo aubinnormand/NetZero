@@ -78,7 +78,7 @@ def clean_year_column(df, year_col=None, new_name='Year', keep_numeric=True, res
 
     return df
 
-def import_data_sig(filename,base_path,folder="SIG"):
+def import_data_sig(base_path,filename,folder="SIG"):
     """
     Importation d'un fichier SIG (GeoJSON, Shapefile...) depuis Data/SIG
     """
@@ -207,7 +207,6 @@ def format_scientific(value, precision=2):
 
     return f"{base}×10^{exp}"
 
-
 def apply_unit_modifier(unit: str, type_value: str):
     """
     Append '/year' if type is Annual.
@@ -218,5 +217,10 @@ def apply_unit_modifier(unit: str, type_value: str):
         return f"{unit}/year"
     return unit
 
+def import_csv_data(base_path, filename="data_final_all_norm.csv"):
+    filepath = base_path / "Data" / "data_final" / filename
+    print("Loading data from:", filepath.resolve())  # debug
+    df = pd.read_csv(filepath)
+    return df
 
 
