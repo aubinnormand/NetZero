@@ -17,7 +17,7 @@ from scripts.data_utils import import_csv_data, import_data_sig
 from scripts.map_utils import simplify_geom
 from scripts.layout import get_layout
 from scripts.callbacks import register_callbacks
-from scripts.config import norm_map, scale_options, color_range_options, type_options, first_year, geom_simplify_tol
+from scripts.config import norm_map, scale_options, color_range_options, type_options, first_year, geom_simplify_tol, last_year
 
 
 # --- Load data ---
@@ -33,7 +33,7 @@ gdf_world['geometry'] = gdf_world['geometry'].apply(lambda g: simplify_geom(g, t
 indicator_options = df_data['Indicator'].unique()
 database_options = df_data['Source'].unique()
 year_options = sorted(df_data['Year'].unique())
-last_year = max(year_options)
+
 norm_map_labels = list(norm_map.keys())
 
 # --- Dash app ---

@@ -22,6 +22,7 @@ type_options = [
 
 # --- Slider settings ---
 first_year = 1960
+last_year= 2023
 year_step = 1
 
 # --- Choropleth defaults ---

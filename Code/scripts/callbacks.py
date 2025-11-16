@@ -5,11 +5,33 @@ import numpy as np
 from map_utils import symlog
 
 def register_callbacks(app, df_data, gdf_world, norm_map):
+    
+    # --- Mapping ---
+    indicator_to_db = (
+        df_data.groupby("Indicator")["Source"]
+        .unique()
+        .apply(list)
+        .to_dict()
+    )
+
+    # --- Dynamic Database dropdown ---
+    @app.callback(
+        Output("database", "options"),
+        Output("database", "value"),
+        Input("indicator", "value")
+    )
+    def update_database_dropdown(selected_indicator):
+        valid_dbs = indicator_to_db.get(selected_indicator, [])
+        options = [{"label": db, "value": db} for db in valid_dbs]
+        default_value = valid_dbs[0] if valid_dbs else None
+        return options, default_value
+
+    # --- Map update callback ---
     @app.callback(
         Output("world_map", "figure"),
         Input("indicator", "value"),
         Input("database", "value"),
-        Input("type", "value"),          
+        Input("type", "value"),
         Input("year", "value"),
         Input("scale", "value"),
         Input("color_range", "value"),
@@ -41,6 +63,7 @@ def register_callbacks(app, df_data, gdf_world, norm_map):
         no_data_at_all = z_values.dropna().empty
     
         if no_data_at_all:
+            unit_prefix = ""
             # --- No data case ---
             z_plot_scaled = np.zeros(len(gdf_merged))
             colorscale_to_use = [[0, 'lightgray'], [1, 'lightgray']]
@@ -169,7 +192,7 @@ def register_callbacks(app, df_data, gdf_world, norm_map):
                 ticktext=colorbar_ticks.get('ticktext', None)
             )
         ))
-    
+
         # --- Layout ---
         fig.update_layout(
             geo=dict(
@@ -179,6 +202,25 @@ def register_callbacks(app, df_data, gdf_world, norm_map):
                 domain=dict(x=[0.07, 1], y=[0, 1])
             ),
             margin=dict(l=0, r=0, t=0, b=0)
+        )
+
+        # Add a permanent "No data" patch (top-left)
+        fig.add_shape(
+            type="rect",
+            xref="paper", yref="paper",
+            x0=0.01, y0=0.93,   # position
+            x1=0.04, y1=0.96,   # size
+            fillcolor="lightgray",
+            line=dict(color="black", width=1)
+        )
+        
+        fig.add_annotation(
+            xref="paper", yref="paper",
+            x=0.045, y=0.96,
+            text="No data",
+            showarrow=False,
+            font=dict(size=14, color="black"),
+            align="left"
         )
     
         return fig
