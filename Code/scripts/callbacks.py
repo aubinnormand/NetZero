@@ -110,14 +110,14 @@ def register_callbacks(app, df_data, gdf_world, norm_map):
                 z_plot = z_values.copy()
                 
                 # Determine unit scaling
-                vmax_val = z_plot.max()
-                if vmax_val >= 1e9:
+                zborne = max(abs(zmin_raw), abs(zmax_raw))
+                if zborne >= 1e9:
                     unit_multiplier = 1e9
                     unit_prefix = f"G{unit_prefix}"
-                elif vmax_val >= 1e6:
+                elif zborne >= 1e6:
                     unit_multiplier = 1e6
                     unit_prefix = f"M{unit_prefix}"
-                elif vmax_val >= 1e3:
+                elif zborne >= 1e3:
                     unit_multiplier = 1e3
                     unit_prefix = f"k{unit_prefix}"
                 z_plot_scaled = z_plot / unit_multiplier
