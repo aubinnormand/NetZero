@@ -208,18 +208,18 @@ def register_callbacks(app, df_data, gdf_world, norm_map):
         fig.add_shape(
             type="rect",
             xref="paper", yref="paper",
-            x0=0.01, y0=0.93,   # position
-            x1=0.04, y1=0.96,   # size
+            x0=0.0, y0=0.93,   # position
+            x1=0.03, y1=0.96,   # size
             fillcolor="lightgray",
             line=dict(color="black", width=1)
         )
         
         fig.add_annotation(
             xref="paper", yref="paper",
-            x=0.045, y=0.96,
+            x=0.035, y=0.96,
             text="No data",
             showarrow=False,
-            font=dict(size=14, color="black"),
+            font=dict(size=12, color="black"),
             align="left"
         )
     
