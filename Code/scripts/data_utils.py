@@ -89,7 +89,7 @@ def import_data_sig(base_path,filename,folder="SIG"):
 # Fonctions de formatage
 # -----------------------------
 
-def melt_long_format(df, id_vars=['Country'], var_name='Year', value_name='Value',source=None, unit=None, indicator=None):
+def melt_long_format(df, id_vars=['Country'], var_name='Year', value_name='Value',source=None, unit=None, category=None,indicator=None):
     """
     Transformer un DataFrame en format long (tidy) et ajouter des métadonnées
     """
@@ -98,6 +98,8 @@ def melt_long_format(df, id_vars=['Country'], var_name='Year', value_name='Value
     # Ajout des métadonnées si fournies
     if unit is not None:
         df_long['Unit'] = unit
+    if category is not None:
+        df_long['Category'] = category
     if indicator is not None:
         df_long['Indicator'] = indicator
     if source is not None:
@@ -105,7 +107,7 @@ def melt_long_format(df, id_vars=['Country'], var_name='Year', value_name='Value
     
     return df_long
 
-def save_long_dataframe(df, base_path, indicator=None, source=None, folder="data_final", sep=',', index=False, encoding='utf-8'):
+def save_long_dataframe(df, base_path,category=None, indicator=None, source=None, folder="data_final", sep=',', index=False, encoding='utf-8'):
     """
     Sauvegarde un DataFrame au format long avec un nom de fichier dynamique basé sur l'indicateur et la source.
     Supprime les lignes avec NaN et ne garde que les colonnes essentielles.
@@ -131,13 +133,14 @@ def save_long_dataframe(df, base_path, indicator=None, source=None, folder="data
         return name
 
     # Garder seulement les colonnes essentielles
-    cols_to_keep = ['Year','Country', 'Value', 'Unit', 'Indicator', 'Source', 'Country_code']
+    cols_to_keep = ['Year','Country', 'Value', 'Unit', 'Category','Indicator', 'Source', 'Country_code']
     df = df[cols_to_keep].dropna()
-
+    
+    category_name = clean_name(category)
     indicator_name = clean_name(indicator)
     source_name = clean_name(source)
 
-    filename = f"{indicator_name}_{source_name}.csv"
+    filename = f"{category_name}_{indicator_name}_{source_name}.csv"
 
     save_path = base_path / "Data" / folder / filename
     save_path.parent.mkdir(parents=True, exist_ok=True)

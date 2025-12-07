@@ -1,6 +1,7 @@
 # Ignorer les fichiers temporaires Python et Jupyter
 __pycache__/
 *.pyc
+.git
 
 # Ignorer les checkpoints Jupyter
 **/.ipynb_checkpoints/
@@ -9,3 +10,10 @@ __pycache__/
 Figures/
 Documentation/
 Database/
+
+
+# Ignorer certains sous-dossiers dans Data
+Data/data_intermediate/
+Data/data_raw/
+Data/GHG/
+Data/Datasets/
