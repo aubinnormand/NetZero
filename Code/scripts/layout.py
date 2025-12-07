@@ -3,6 +3,7 @@ from dash import html, dcc
 def get_layout(
     indicator_options,
     database_options,
+    category_options,      # <-- Nouveau paramètre
     norm_map_labels,
     first_year,
     last_year,
@@ -14,11 +15,21 @@ def get_layout(
     return html.Div([
         # --- Sidebar ---
         html.Div([
+
+            html.Label("Category"),  # <-- Nouveau Dropdown
+            dcc.Dropdown(
+                id="category",
+                options=[{"label": i, "value": i} for i in category_options],
+                value=category_options[0] if category_options.size > 0 else None,
+                placeholder="Category",
+                style={'marginBottom': '20px'}
+            ),
+            
             html.Label("Indicator"),
             dcc.Dropdown(
                 id="indicator",
                 options=[{"label": i, "value": i} for i in indicator_options],
-                value=indicator_options[0],
+                value=None,
                 placeholder="Indicator",
                 style={'marginBottom': '20px'}
             ),
@@ -27,7 +38,7 @@ def get_layout(
             dcc.Dropdown(
                 id="database",
                 options=[{"label": i, "value": i} for i in database_options],
-                value=database_options[0],
+                value=None,
                 placeholder="Database",
                 style={'marginBottom': '20px'}
             ),
